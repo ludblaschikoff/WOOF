@@ -2,7 +2,7 @@ Mitogenoma
 
 Minimum base quality	25
 Minimum read lenght	80
-Minimum mapping quality	25
+Minimum mapping quality	30
 Minimum coverage SNP	10.0
 Minimum quality SNP	20.0
 
@@ -12,7 +12,7 @@ Nuclear
 
 Minimum base quality	25
 Minimum read lenght	80
-Minimum mapping quality	25
+Minimum mapping quality	30
 Minimum coverage SNP	7.0
 Minimum quality SNP	6.0
 Minimum genotype quality 20.0
