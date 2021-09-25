@@ -6,7 +6,7 @@ Minimum mapping quality	30
 Minimum coverage SNP	10.0
 Minimum quality SNP	20.0
 
-INDEL included (o certo era não estar incluído. Ou seja criar uma seq consensus com indels e outra sem indel. A sem indel que é submetida no genbank).
+INDEL included/excluded (o certo é não estar incluído. Ou seja criar uma seq consensus com indels e outra sem indel. A sem indel que é submetida no genbank).
 
 Nuclear
 
