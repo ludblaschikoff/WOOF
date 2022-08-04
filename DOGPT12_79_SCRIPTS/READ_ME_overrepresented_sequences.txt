@@ -6,9 +6,9 @@ cutadapt --pair-filter=any -b "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 
 Porém, algumas amostras continuaram com poly G´s. Então repeti o mesmo script.
 
-Porém, à parte testei o seguinte comando cutadapt numa amostra sem nenhum processamento:
+Porém, a parte testei o seguinte comando cutadapt numa amostra sem nenhum processamento:
 
-cutadapt --pair-filter=any -b "G{100}" -B "G{100}" -q "$trimqual","$trimqual" -j "$threads" -m "$minreadlength" --max-n 0 -o "$base_output"/preprocessing/cutadapt/"$base_name"_R1_trimmed.fq.gz -p "$base_output"/preprocessing/cutadapt/"$base_name"_R2_trimmed.fq.gz "$read1" "$read2"			#Cutadapt allows you to include N number of repeats by using the command '-b "G{100}". It simply trims away up to whatever you specify in the curly brackets.
+cutadapt -b "G{100}" -B "G{100}" -q "$trimqual","$trimqual" -j "$threads" -m "$minreadlength" --max-n 0 -o "$base_output"/preprocessing/cutadapt/"$base_name"_R1_trimmed.fq.gz -p "$base_output"/preprocessing/cutadapt/"$base_name"_R2_trimmed.fq.gz "$read1" "$read2"			#Cutadapt allows you to include N number of repeats by using the command '-b "G{100}". It simply trims away up to whatever you specify in the curly brackets.
 
 E o resultado foi logo amostras sem polyG´s sem precisar repetir o cutadapt.
 
