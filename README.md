@@ -2,8 +2,9 @@
 Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF project. The steps envolve pre-processing, mapping, variant calling and population genomics analysis. Designed for the analysis of Illumina sequences obtained from Portuguese and Spanish specimens.
 
 # #Fastq2BAM - Read filter and mapping
-Scripts to analyze modern HTS data (DOGPT12-DOGPT79) from preprocessing to mapping.
-Scripts to analyze modern HTS data (Dabase_data) from preprocessing to mapping.
+- Scripts to analyze modern HTS data (DOGPT12-DOGPT79) from preprocessing to mapping.
+- Scripts to analyze modern HTS data (Dabase_data) from preprocessing to mapping.
+- (SCRIPTS_IN_PROGRESS)/Modern_data_processing has SCRIPTS being developed to improve future analysis.
 
 # #FILO - Mitochondrial Filogenies
 
