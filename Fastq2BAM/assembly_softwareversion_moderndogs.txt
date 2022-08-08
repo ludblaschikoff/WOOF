@@ -1,0 +1,32 @@
+- Pre-processing
+
+cutadapt v.1.18
+fastqc v0.11.8
+
+- Nuclear
+
+bwa mem v.0.7.17-r1188
+samtools v.1.9
+picard AddOrReplaceReadGroups v.2.18.14
+picard MarkDuplicates v.2.18.14
+qualimap v.2.2.1
+GATK HaplotypeCaller v4.1.7.0
+GATK VariantFiltration v4.1.7.0
+GATK SelectVariants v4.1.7.0
+GATK v4.1.7.0 BaseRecalibrator
+snpEff v.4.3t
+
+- Mitocondrial
+
+bwa mem v.0.7.17-r1188
+samtools v.1.9
+picard AddOrReplaceReadGroups v.2.18.14
+picard MarkDuplicates v.2.18.14
+qualimap v.2.2.1
+GATK HaplotypeCaller v4.1.7.0
+GATK VariantFiltration v4.1.7.0
+GATK SelectVariants v4.1.7.0
+snpEff v.4.3t
+bedtools genomecov v2.27.1
+bedtools maskfasta v2.27.1
+bcftools consensus v.1.9-256-gee19e7c
