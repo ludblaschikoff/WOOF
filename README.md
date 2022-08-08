@@ -3,7 +3,7 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 
 # #Fastq2BAM - Read filter and mapping
 - Scripts to analyze modern HTS data (DOGPT12-DOGPT79) from preprocessing to mapping.
-- Scripts to analyze modern HTS data (Dabase_data) from preprocessing to mapping.
+- Scripts to analyze modern HTS data (Database_data) from preprocessing to mapping.
 - (SCRIPTS_IN_PROGRESS) has SCRIPTS being developed to improve future analysis.
 
 # #FILO - Mitochondrial Filogenies
