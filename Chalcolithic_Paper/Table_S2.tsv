@@ -1,222 +1,222 @@
 Suplementary Table S2. Description of samples used to construct phylogenetic trees and temporal network.																									
 Canine type	Age(BP)	Cal (BP)	UDG treatment	Location	Region	GenBank Accession Number	Breed	Sample ID	Sample Name (This Study)	Genome Size	Number of known pb	Haplogroup	Haplogroup (in this study)	Source	BEAST and ML trees	Temporal Network									
-Coyote	0			n/a	n/a	NC_008093.1	n/a	n/a	Canis_latrans	16724 bp of mt genome	16713 bp of mt genome	n/a	n/a	Bjornerfeldt et al. 2006	?										
-Dog	0			n/a	n/a	NC_002008.4	Boxer	n/a	eDog_ref	16727 bp of mt genome	16727 bp of mt genome	A1a	n/a	Kim et al. 1998	?										
-Dog	0			Portugal/Spain	Iberian Peninsula	EU789655.1	Spanish Galgo	D6_R33	eDog_D6_ES/PT_HgD1a	16195 bp of mt genome	16194 bp of mt genome	D1a	n/a	Pang et al. 2009	?	?									
-Dog	0			Spain	Iberian Peninsula	EU789714.1	Spanish Galgo	A34_R34	eDog_A34_ES_HgA	16195 bp of mt  genome	16194 bp of mt genome	A	n/a	Pang et al.2009	?	?									
-Dog	0			Russia	Russia/Caucasus	KM061563.1	Schnauzer	stp79	eDog_stp79_RU_HgA1a1b1a	16730 bp of mt genome	16708 bp of mt genome	A1a1b1a	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061532.1	mixed breed	pl25	eDog_pl25_PL_HgA1a1b1b	16730 bp of mt genome	16730 bp of mt genome	A1a1b1b	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061584.1	Jagdterrier	pluno	eDog_pluno_PL_HgA1a1e1	16730 bp of mt genome	16730 bp of mt genome	A1a1e1	n/a	Duleba et al. 2015	?	?									
-Dog	0			Ukraine	Europe	KM061581.1	mixed breed	u16	eDog_u16_UA_HgA1b1a1	16733  bp of mt genome	16733  bp of mt genome	A1b1a1	n/a	Duleba et al. 2015	?	?									
-Dog	0			Ukraine	Europe	KM061583.1	mixed breed	u6	eDog_u6_UA_HgA1b2a1a1	16730 bp of mt genome	16730 bp of mt genome	A1b2a1a1	n/a	Duleba et al. 2015	?	?									
-Dog	0			Russia	Russia/Caucasus	KM061567.1	Doberman Pinscher	stp86	eDog_stp86_RU_HgA1b4	16730 bp of mt genome	16730 bp of mt genome	A1b4	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061542.1	Shar-pei	pl69	eDog_pl69_PL_HgA2a1a	16730 bp of mt genome	16730 bp of mt genome	A2a1a	n/a	Duleba et al. 2015	?	?									
-Dog	0			Russia	Russia/Caucasus	KM061562.1	Pekingese	stp77	eDog_stp77_RU_HgA4a	16731  bp of mt genome	16731  bp of mt genome	A4a	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061546.1	mixed breed	pl96	eDog_pl96_PL_HgB1a1c	16731  bp of mt genome	16731  bp of mt genome	B1a1c	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061538.1	Great Dane	pl54	eDog_pl54_PL_HgB1a1d	16730 bp of mt genome	16730 bp of mt genome	B1a1d	n/a	Duleba et al. 2015	?	?									
-Dog	0			Russia	Russia/Caucasus	KM061565.1	mixed breed	stp82	eDog_stp82_RU_HgB1a1e	16730 bp of mt genome	16730 bp of mt genome	B1a1e	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061539.1	mixed breed	pl57	eDog_pl57_PL_HgB1a1f1b	16731  bp of mt genome	16731  bp of mt genome	B1a1f1b	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061543.1	Shar-pei	pl70	eDog_pl70_PL_HgB1a1i	16730 bp of mt genome	16730 bp of mt genome	B1a1i	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061545.1	Boxer	pl88	eDog_pl88_PL_HgB1a1k	16731  bp of mt genome	16731  bp of mt genome	B1a1k	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061540.1	Doberman Pinscher	pl6	eDog_pl6_PL_HgC1a1a	16730 bp of mt genome	16730 bp of mt genome	C1a1a	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061534.1	German Shepherd	pl43	eDog_pl43_PL_HgC1a2a	16730 bp of mt genome	16730 bp of mt genome	C1a2a	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061535.1	Jagdterrier	pl44	eDog_pl44_PL_HgC1a4	16730 bp of mt genome	16730 bp of mt genome	C1a4	n/a	Duleba et al. 2015	?	?									
-Dog	0			Poland	Europe	KM061533.1	Maltese (dog)	pl32	eDog_pl32_PL_HgC2a1a	16730 bp of mt genome	16730 bp of mt genome	C2a1a	n/a	Duleba et al. 2015	?	?									
-Dog	0			Russia	Russia/Caucasus	KM061561.1	Black Russian Terrier	stp75	eDog_stp75_RU_HgC2a3	16730 bp of mt genome	16730 bp of mt genome	C2a3	n/a	Duleba et al. 2015	?	?									
-Dog	0			Iran	Middle East	EU789735	n/a	A11_m54	eDog_A11_m54_IR_HgA1a1	16196 bp of mt genome	16195 bp of mt genome	A1a1	n/a	Pang et al. 2009	?	?									
-Dog	0			Great Britain	Europe	AY656747.1	Welsh Springer Spaniel	WSS	eDog_WSS_UK_HgA1a1a	16770 bp of mt genome	16770 bp of mt genome	A1a1a	n/a	Shahid et al. (unpublished data)	?	?									
-Dog	0			Great Britain	Europe	AY656744.1	English Springer Spaniel	ESS	eDog_ESS_UK_HgA1a1c	16730 bp of mt genome	16730 bp of mt genome	A1a1c	n/a	Shahid et al. (unpublished data)	?	?									
-Dog	0			Great Britain	Europe	DQ480496.1	Irish Soft Coated Wheaten Terrier	ISCWT	eDog_ISCWT_UK_HgA1a1d	16729 bp of mt genome	16722 bp of mt genome	A1a1d	n/a	Björnerfeldt et al.2006	?	?									
-Dog	0			Great Britain	Europe	EU789728.1	Golden Retriever	A16_R108	eDog_A16_R108_UK_HgA1b1a2	16198 bp of mt genome	16197 bp of mt genome	A1b1a2	n/a	Pang et al. 2009	?	?									
-Dog	0			Great Britain	Europe	EU789683.1	Border collie	A1_R105	eDog_A1_R105_UK_HgA1b2a2b	16196 bp of mt genome	16195 bp of mt genome	A1b2a2b	n/a	Pang et al. 2009	?	?									
-Dog	0			Sweden	Europe	DQ480497.1	West Highland White Terrier	WHWT	eDog_WHWT_SE_HgA1b2b	16730 bp of mt genome	16725 bp of mt genome	A1b2b	n/a	Björnerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480491.1	Irish Setter	IS1	eDog_IS1_SE_HgA1b3a1	16730 bp of mt genome	16718 bp of mt genome	A1b3a1	n/a	Björnerfeldt et al. 2006	?	?									
-Dog	0			Great Britain	Europe	AY656741.1	Irish Setter	IS2	eDog_IS2_UK_HgA1b3b1	16710 bp of mt genome	16710 bp of mt genome	A1b3b1	n/a	Shahid et al. (unpublished data)	?	?									
-Dog	0			Great Britain	Europe	DQ480500.1	Shetland sheepdog	SS	eDog_SS_UK_HgB1a1a	16730 bp of mt genome	16709 bp of mt genome	B1a1a	n/a	Björnerfeldt et al. 2006	?	?									
-Dog	0			Great Britain	Europe	EU789652.1	Collie	B1_m510	eDog_B1_m510_UK_HgB1a1b	16196 bp of mt genome	16195 bp of mt genome	B1a1b	n/a	Pang et al. 2009	?	?									
-Dog	0			Germany	Europe	AY656752.1	Standard Schnauzer	SS	eDog_SS_DE_HgB1a1h	16720 bp of mt genome	16720 bp of mt genome	B1a1h	n/a	Shahid et al. (unpublished data)	?	?									
-Dog	0			Iran	Middle East	EU789653.1	n/a	B1_m48	eDog_B1_m48_IR_HgB1a1j	16196 bp of mt genome	16195 bp of mt genome	B1a1j	n/a	Pang et al. 2009	?	?									
-Dog	0			Belgium	Europe	KJ637111.1	mixed breed	Be47_1	eDog_Be47_1_BE_HgB1a1m	16530 bp of mt genome	16430 bp of mt genome	B1a1m	n/a	Verscheure et al. 2014	?	?									
-Dog	0			Belgium	Europe	KJ637107.1	mixed breed	Be44_1	eDog_Be44_1_BE_HgB1a1n	16530 bp of mt genome	16430 bp of mt genome	B1a1n	n/a	Verscheure et al. 2014	?	?									
-Dog	0			Belgium	Europe	KJ637110.1	mixed breed	Be46_1	eDog_Be46_1_BE_HgB1a1o	16529 bp of mt genome	16429 bp of mt genome	B1a1o	n/a	Verscheure et al. 2014	?	?									
-Dog	0			Belgium	Europe	KJ637113.1	Labrador Retriever	Be47_11	eDog_Be47_11_BE_HgB1a1p	16530 bp of mt genome	16430 bp of mt genome	B1a1p	n/a	Verscheure et al. 2014	?	?									
-Dog	0			Scandinavia	Europe	EU789774.1	Jamthund	C3_D13	eDog_C3_D13_Scandinavia_HgC2a2a	16196 bp of mt genome	16196 bp of mt genome	C2a2a	n/a	Pang et al. 2009	?	?									
-Dog	0			Belgium	Europe	KJ637136.1	Cocker Spaniel	Be53_1	eDog_Be53_1_BE_HgC2a5	16530 bp of mt genome	16430 bp of mt genome	C2a5	n/a	Verscheure et al. 2014	?	?									
-Dog	0			Turkey	Middle East	EU789654.1	Kangal	D5_m98	eDog_D5_m98_TR_HgD1	16195 bp of mt genome	16194 bp of mt genome	D1	n/a	Pang et al. 2009	?	?									
-Dog	0			Sweden	Europe	DQ480502.1	Jämthund	n/a	eDog_Jamthund2_SE_HgD2a	16729 bp of mt genome	16709 bp of mt genome	D2a	n/a	Björnerfeldt et al. 2006	?	?									
-Dog	0			Scandinavia	Europe	EU789783.1	Jämthund	D8_D14	eDog_D8_D14_Scandinavia_HgD2a1	16195 bp of mt genome	16195 bp of mt genome	D2a1	n/a	Pang et al. 2009	?	?									
-Dog	0			Sweden	Europe	DQ480499.1	Siberian Husky	n/a	eDog_Husky_SE_HgA1b 	16730 bp of mt genome	16711 bp of mt genome	A1b	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480492.1	Jämthund	n/a	eDog_Jamthund1_SE_HgD	16729 bp of mt genome	16721 bp of mt genome	D	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480495.1	Cocker spaniel	n/a	eDog_CS_SE_HgA1a	16730 bp of mt genome	16720 bp of mt genome	A1a	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480489.1	German Shepherd	n/a	 eDog_GS_SE_HgC 	16730 bp of mt genome	16724 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480501.1	Elkhound	n/a	eDog_Elkhound_SE_HgC 	16730 bp of mt genome	16715 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480493.1	Black Russian Terrier	n/a	eDog_BRT_SE_HgC	16730 bp of mt genome	16715 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916015	Castro Laboreiro Watchdog	DOGPT12	eDog_PT12-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Morocco	North Africa	MW916016	Aidi	DOGAfr13	eDog_Afr13-Aidi_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Morocco	North Africa	MW916017	Aidi	DOGAfr14	eDog_Afr14-Aidi_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Morocco	North Africa	MW916018	Aidi	DOGAfr16	eDog_Afr16-Aidi_MA_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	?	?									
-Dog	0			Morocco	North Africa	MW916019	Aidi	DOGAfr17	eDog_Afr17-Aidi_MA_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916020	Estrela Mountain Dog	DOGPT18	eDog_PT18-EMD_PT_HgC	16731 bp of mt genome	16731 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Morocco	North Africa	MW916021	Sloughi	DOGAfr9	eDog_Afr19-SG_MA_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	?	?									
-Dog	0			Morocco	North Africa	MW916022	Sloughi	DOGAfr20	eDog_Afr20-SG_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Morocco	North Africa	MW916023	Sloughi	DOGAfr21	eDog_Afr21-SG_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916024	Portuguese Water Dog	DOGPT22	eDog_PT22-PWD_PT_HgA	16760 bp of mt genome	16760 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916025	Portuguese Water Dog	DOGPT23	eDog_PT23-PWD_PT_HgB	16731 bp of mt genome	16731 bp of mt genome	n/a	B	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916026	Estrela Mountain Dog	DOGPT24	eDog_PT24-EMD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916027	Portuguese Water Dog	DOGPT25	eDog_PT25-PWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916028	Portuguese Water Dog	DOGPT26	eDog_PT26-PWD_PT_HgB	16771 bp of mt genome	16771 bp of mt genome	n/a	B	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916029	Azores Cattle Dog	DOGPT27	eDog_PT27-ACD_PT_HgA	16733 bp of mt genome	16733 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916030	Azores Cattle Dog	DOGPT28	eDog_PT28-ACD_PT_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916031	Azores Cattle Dog	DOGPT29	eDog_PT29-ACD_PT_HgC	16729 bp of mt genome	16729 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916032	Azores Cattle Dog	DOGPT30	eDog_PT30-ACD_PT_HgC	16731 bp of mt genome	16731 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916033	Castro Laboreiro Watchdog	DOGPT31	eDog_PT31-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916034	Castro Laboreiro Watchdog	DOGPT32	eDog_PT32-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916035	Castro Laboreiro Watchdog	DOGPT33	eDog_PT33-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916036	Castro Laboreiro Watchdog	DOGPT34	eDog_PT34-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916037	Castro Laboreiro Watchdog	DOGPT35	eDog_PT35-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916038	Portuguese Warren Hound (Large wire-haired)	DOGPT36	eDog_PT36-PWH_PT_HgA	16760 bp of mt genome	16760 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916039	Portuguese Warren Hound (Medium-sized wire-haired)	DOGPT37	eDog_PT37-PWH_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916040	Portuguese Warren Hound (Medium-sized wire-haired)	DOGPT38	eDog_PT38-PWH_PT_HgB	16720 bp of mt genome	16720 bp of mt genome	n/a	B	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916041	Portuguese Warren Hound (Small wire-haired)	DOGPT39	eDog_PT39-PWH_PT_HgB	16730 bp of mt genome	16730 bp of mt genome	n/a	B	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916042	Portuguese Warren Hound (Small wire-haired)	DOGPT40	eDog_PT40-PWH_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916043	Portuguese Warren Hound (Small short-haired)	DOGPT41	eDog_PT41-PWH_PT_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916044	Rafeiro of Alentejo	DOGPT42	eDog_PT42-RA_PT_HgC	16730 bp of mt genome	16730 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916045	Rafeiro of Alentejo	DOGPT43	eDog_PT43-RA_PT_HgC	16730 bp of mt genome	16730 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916046	Rafeiro of Alentejo	DOGPT44	eDog_PT44-RA_PT_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916047	Rafeiro of Alentejo	DOGPT45	eDog_PT45-RA_PT_HgC	16731 bp of mt genome	16730 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916048	Rafeiro of Alentejo	DOGPT46	eDog_PT46-RA_PT_HgB	16730 bp of mt genome	16730 bp of mt genome	n/a	B	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916049	Estrela Mountain Dog	DOGPT49	eDog_PT49-EMD_PT_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916050	Estrela Mountain Dog	DOGPT50	eDog_PT50-EMD_PT_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916051	Estrela Mountain Dog	DOGPT51	eDog_PT51-EMD_PT_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916052	Estrela Mountain Dog	DOGPT52	eDog_PT52-EMD_PT_HgC	16700 bp of mt genome	16700 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916053	Portuguese Sheepdog	DOGPT53	eDog_PT53-PSD_PT_HgA	16720 bp of mt genome	16716 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916054	Portuguese Sheepdog	DOGPT54	eDog_PT54-PSD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916055	Portuguese Sheepdog	DOGPT55	eDog_PT55-PSD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916056	Portuguese Sheepdog	DOGPT56	eDog_PT56-PSD_PT_HgC	16731 bp of mt genome	16730 bp of mt genome	n/a	C	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916057	Portuguese Pointer	DOGPT57	eDog_PT57-PP_PT_HgA	16710 bp of mt genome	16710 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916058	Portuguese Pointer	DOGPT58	eDog_PT58-PP_PT_HgA	16760 bp of mt genome	16760 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916059	Portuguese Pointer	DOGPT59	eDog_PT59-PP_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916060	Portuguese Pointer	DOGPT60	eDog_PT60-PP_PT_HgA	16710 bp of mt genome	16710 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916061	Barrocal Algarvio	DOGPT61	eDog_PT61-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916062	Barrocal Algarvio	DOGPT62	eDog_PT62-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916063	Barrocal Algarvio	DOGPT63	eDog_PT63-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916064	Barrocal Algarvio	DOGPT64	eDog_PT64-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916065	 Trasmontano Mastiff	DOGPT66	eDog_PT66-TM_PT_HgA	16730 bp of mt genome	16728 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916066	 Trasmontano Mastiff	DOGPT67	eDog_PT67-TM_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916067	Portuguese Pointer	DOGPT69	eDog_PT69-PP_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Dog	0			Portugal	Iberian Peninsula	MW916068	Portuguese Pointer	DOGPT70	eDog_PT70-PP_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	?	?									
-Wolf	0			Spain	Iberian Peninsula	KU644670.1	n/a	SpanishWolf2	eWolf1_ES	16580 bp of mt  genome	16557 bp of mt  genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Portugal	Iberian Peninsula	KU644668.1	n/a	PortugueseWolf	eWolf2_PT	16520 bp of mt  genome	16519 bp of mt  genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Portugal	Iberian Peninsula	KT448278.1	n/a	CLU_PT	eWolf3_PT	16729 bp of mt  genome	16721 bp of mt  genome	n/a	n/a	Koeplfi et al. 2015	?										
-Wolf	0			Spain	Iberian Peninsula	DQ480505.1	n/a	n/a	eWolf4_ES	16729 bp of mt  genome	16725 bp of mt  genome	n/a	n/a	Bjornerfeldt et al. 2006	?										
-Wolf	0			Portugal	Iberian Peninsula	MW916078	n/a	LUP006829	eWolf5_PT_Hg1	16759 bp of mt genome	16759 bp of mt genome	n/a	WolfHg1	This study2	?										
-Wolf	0			Portugal	Iberian Peninsula	MW916079	n/a	LUP006830	eWolf6_PT_Hg1	16759 bp of mt genome	16759 bp of mt genome	n/a	WolfHg1	This study2	?										
-Wolf	0			Sweden	Europe	AM711902.1	n/a	Sweden1	eWolf16_SE	16757 pb of mt genome	16757 pb of mt genome	B2 (Duleba et al 2015)	n/a	Arnason et al. 2007	?										
-Wolf	0			Finland	Europe	KF661038.1	n/a	Finland	eWolf19_FI	16727 pb of mt genome	16402 pb of mt genome	B'C'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Russia	Russia/Caucasus	KF661039.1	n/a	Russia1	eWolf20_RU	16727 pb of mt genome	15926 pb of mt genome	B'C'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Sweden	Europe	KF661040.1	n/a	Sweden2	eWolf21_SE	16727 pb of mt genome	16413 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Israel	Middle East	KF661042.1	n/a	Israel1	eWolf23_IL	16727 pb of mt genome	16412 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Russia	Russia/Caucasus	KF661044.1	n/a	Russia2	eWolf25_RU	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Poland	Europe	KF661045.1	n/a	Poland1	eWolf26_PL	16727 pb of mt genome	16417 pb of mt genome	D (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Russia	Russia/Caucasus	KF661046.1	n/a	Russia3	eWolf27_RU	16727 pb of mt genome	16414 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Ukraine	Europe	KF661047.1	n/a	Ukraine	eWolf28_UA	16727 pb of mt genome	16416 pb of mt genome	B2 (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Italy	Europe	KF661048.1	n/a	Italy	eWolf29_IT	16727 pb of mt genome	16417 pb of mt genome	D (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Poland	Europe	KF661049.1	n/a	Poland2	eWolf30_PL	16727 pb of mt genome	16415 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Iran	Middle East	KF661051.1	n/a	Iran	eWolf32_IR	16727 pb of mt genome	16418 pb of mt genome	A'B'C'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Sweden	Europe	KF661052.1	n/a	Sweden3	eWolf33_SE	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Croatia	Europe	KF661054.1	n/a	Croatia	eWolf35_HR	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Israel	Middle East	KF661055.1	n/a	Israel2	eWolf36_IL	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	?										
-Wolf	0			Iran	Middle East	KU644671.1	n/a	Iran2	eWolf39_IR	16541 pb of mt genome	16540 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Italy	Europe	KU644662.1	n/a	Italy2	eWolf40_IT	16520 pb of mt genome	16520 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Bulgaria	Europe	KU696388.2	n/a	Bul729	eWolf41_BG	16730 pb of mt genome	16585 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Belarus	Europe	KU696390.1	n/a	Bel13	eWolf43_BY	16730 pb of mt genome	16710 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Ukraine	Europe	KU696397.1	n/a	CLUUkraine	eWolf50_UA	16730 pb of mt genome	16631 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Croatia	Europe	KU696398.1	n/a	Croatia7	eWolf51_HR	16668 pb of mt genome	16668 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	?										
-Wolf	0			Sweden	Europe	DQ480504.1	n/a	Sweden1	eWolf62_SE	16710 pb of mt genome	16710 pb of mt genome	B'E (Duleba et al 2015)	n/a	Bjornerfeldt et al. 2006	?										
-Wolf	0			Russia	Russia/Caucasus	DQ480503.1	n/a	Russia1	eWolf63_RU	16730 pb of mt genome	16718 pb of mt genome	n/a	n/a	Bjornerfeldt et al. 2006	?										
-Wolf	0			Portugal	Iberian Peninsula	MW916087	n/a	IberianWolf714	eWolf67_PT	16732 pb of mt genome	16640 pb of mt genome	n/a	n/a	This study1	?										
-Wolf	0			Afganistan	Middle East	MN071185.1	n/a	Ms1	eWolf72_AF	16737 pb of mt genome	16619 pb of mt genome	n/a	n/a	Loog et al. 2020	?										
-Wolf	0			Denmark	Europe	MN071186.1	n/a	Ms2	eWolf73_DK	16737 pb of mt genome	16730 pb of mt genome	n/a	n/a	Loog et al. 2020	?										
-Wolf	0			Turkey	Middle East	MN071189.1	n/a	Ms6	eWolf77_TR	16737 pb of mt genome	16632 pb of mt genome	n/a	n/a	Loog et al. 2020	?										
-Wolf	0			Syria	Middle East	MN071203.1	n/a	Ms20	eWolf81_SY	16734 pb of mt genome	16726 pb of mt genome	n/a	n/a	 Loog et al. 2020	?										
-Wolf	0			Spain	Iberian Peninsula	MN071205.1	n/a	Ms22	eWolf83_ES	16737 pb of mt genome	16729 pb of mt genome	n/a	n/a	Loog et al. 2020	?										
+Coyote	0			n/a	n/a	NC_008093.1	n/a	n/a	Canis_latrans	16724 bp of mt genome	16713 bp of mt genome	n/a	n/a	Bjornerfeldt et al. 2006	y										
+Dog	0			n/a	n/a	NC_002008.4	Boxer	n/a	eDog_ref	16727 bp of mt genome	16727 bp of mt genome	A1a	n/a	Kim et al. 1998	y										
+Dog	0			Portugal/Spain	Iberian Peninsula	EU789655.1	Spanish Galgo	D6_R33	eDog_D6_ES/PT_HgD1a	16195 bp of mt genome	16194 bp of mt genome	D1a	n/a	Pang et al. 2009	y	y									
+Dog	0			Spain	Iberian Peninsula	EU789714.1	Spanish Galgo	A34_R34	eDog_A34_ES_HgA	16195 bp of mt  genome	16194 bp of mt genome	A	n/a	Pang et al.2009	y	y									
+Dog	0			Russia	Russia/Caucasus	KM061563.1	Schnauzer	stp79	eDog_stp79_RU_HgA1a1b1a	16730 bp of mt genome	16708 bp of mt genome	A1a1b1a	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061532.1	mixed breed	pl25	eDog_pl25_PL_HgA1a1b1b	16730 bp of mt genome	16730 bp of mt genome	A1a1b1b	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061584.1	Jagdterrier	pluno	eDog_pluno_PL_HgA1a1e1	16730 bp of mt genome	16730 bp of mt genome	A1a1e1	n/a	Duleba et al. 2015	y	y									
+Dog	0			Ukraine	Europe	KM061581.1	mixed breed	u16	eDog_u16_UA_HgA1b1a1	16733  bp of mt genome	16733  bp of mt genome	A1b1a1	n/a	Duleba et al. 2015	y	y									
+Dog	0			Ukraine	Europe	KM061583.1	mixed breed	u6	eDog_u6_UA_HgA1b2a1a1	16730 bp of mt genome	16730 bp of mt genome	A1b2a1a1	n/a	Duleba et al. 2015	y	y									
+Dog	0			Russia	Russia/Caucasus	KM061567.1	Doberman Pinscher	stp86	eDog_stp86_RU_HgA1b4	16730 bp of mt genome	16730 bp of mt genome	A1b4	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061542.1	Shar-pei	pl69	eDog_pl69_PL_HgA2a1a	16730 bp of mt genome	16730 bp of mt genome	A2a1a	n/a	Duleba et al. 2015	y	y									
+Dog	0			Russia	Russia/Caucasus	KM061562.1	Pekingese	stp77	eDog_stp77_RU_HgA4a	16731  bp of mt genome	16731  bp of mt genome	A4a	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061546.1	mixed breed	pl96	eDog_pl96_PL_HgB1a1c	16731  bp of mt genome	16731  bp of mt genome	B1a1c	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061538.1	Great Dane	pl54	eDog_pl54_PL_HgB1a1d	16730 bp of mt genome	16730 bp of mt genome	B1a1d	n/a	Duleba et al. 2015	y	y									
+Dog	0			Russia	Russia/Caucasus	KM061565.1	mixed breed	stp82	eDog_stp82_RU_HgB1a1e	16730 bp of mt genome	16730 bp of mt genome	B1a1e	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061539.1	mixed breed	pl57	eDog_pl57_PL_HgB1a1f1b	16731  bp of mt genome	16731  bp of mt genome	B1a1f1b	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061543.1	Shar-pei	pl70	eDog_pl70_PL_HgB1a1i	16730 bp of mt genome	16730 bp of mt genome	B1a1i	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061545.1	Boxer	pl88	eDog_pl88_PL_HgB1a1k	16731  bp of mt genome	16731  bp of mt genome	B1a1k	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061540.1	Doberman Pinscher	pl6	eDog_pl6_PL_HgC1a1a	16730 bp of mt genome	16730 bp of mt genome	C1a1a	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061534.1	German Shepherd	pl43	eDog_pl43_PL_HgC1a2a	16730 bp of mt genome	16730 bp of mt genome	C1a2a	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061535.1	Jagdterrier	pl44	eDog_pl44_PL_HgC1a4	16730 bp of mt genome	16730 bp of mt genome	C1a4	n/a	Duleba et al. 2015	y	y									
+Dog	0			Poland	Europe	KM061533.1	Maltese (dog)	pl32	eDog_pl32_PL_HgC2a1a	16730 bp of mt genome	16730 bp of mt genome	C2a1a	n/a	Duleba et al. 2015	y	y									
+Dog	0			Russia	Russia/Caucasus	KM061561.1	Black Russian Terrier	stp75	eDog_stp75_RU_HgC2a3	16730 bp of mt genome	16730 bp of mt genome	C2a3	n/a	Duleba et al. 2015	y	y									
+Dog	0			Iran	Middle East	EU789735	n/a	A11_m54	eDog_A11_m54_IR_HgA1a1	16196 bp of mt genome	16195 bp of mt genome	A1a1	n/a	Pang et al. 2009	y	y									
+Dog	0			Great Britain	Europe	AY656747.1	Welsh Springer Spaniel	WSS	eDog_WSS_UK_HgA1a1a	16770 bp of mt genome	16770 bp of mt genome	A1a1a	n/a	Shahid et al. (unpublished data)	y	y									
+Dog	0			Great Britain	Europe	AY656744.1	English Springer Spaniel	ESS	eDog_ESS_UK_HgA1a1c	16730 bp of mt genome	16730 bp of mt genome	A1a1c	n/a	Shahid et al. (unpublished data)	y	y									
+Dog	0			Great Britain	Europe	DQ480496.1	Irish Soft Coated Wheaten Terrier	ISCWT	eDog_ISCWT_UK_HgA1a1d	16729 bp of mt genome	16722 bp of mt genome	A1a1d	n/a	Björnerfeldt et al.2006	y	y									
+Dog	0			Great Britain	Europe	EU789728.1	Golden Retriever	A16_R108	eDog_A16_R108_UK_HgA1b1a2	16198 bp of mt genome	16197 bp of mt genome	A1b1a2	n/a	Pang et al. 2009	y	y									
+Dog	0			Great Britain	Europe	EU789683.1	Border collie	A1_R105	eDog_A1_R105_UK_HgA1b2a2b	16196 bp of mt genome	16195 bp of mt genome	A1b2a2b	n/a	Pang et al. 2009	y	y									
+Dog	0			Sweden	Europe	DQ480497.1	West Highland White Terrier	WHWT	eDog_WHWT_SE_HgA1b2b	16730 bp of mt genome	16725 bp of mt genome	A1b2b	n/a	Björnerfeldt et al. 2006	y	y									
+Dog	0			Sweden	Europe	DQ480491.1	Irish Setter	IS1	eDog_IS1_SE_HgA1b3a1	16730 bp of mt genome	16718 bp of mt genome	A1b3a1	n/a	Björnerfeldt et al. 2006	y	y									
+Dog	0			Great Britain	Europe	AY656741.1	Irish Setter	IS2	eDog_IS2_UK_HgA1b3b1	16710 bp of mt genome	16710 bp of mt genome	A1b3b1	n/a	Shahid et al. (unpublished data)	y	y									
+Dog	0			Great Britain	Europe	DQ480500.1	Shetland sheepdog	SS	eDog_SS_UK_HgB1a1a	16730 bp of mt genome	16709 bp of mt genome	B1a1a	n/a	Björnerfeldt et al. 2006	y	y									
+Dog	0			Great Britain	Europe	EU789652.1	Collie	B1_m510	eDog_B1_m510_UK_HgB1a1b	16196 bp of mt genome	16195 bp of mt genome	B1a1b	n/a	Pang et al. 2009	y	y									
+Dog	0			Germany	Europe	AY656752.1	Standard Schnauzer	SS	eDog_SS_DE_HgB1a1h	16720 bp of mt genome	16720 bp of mt genome	B1a1h	n/a	Shahid et al. (unpublished data)	y	y									
+Dog	0			Iran	Middle East	EU789653.1	n/a	B1_m48	eDog_B1_m48_IR_HgB1a1j	16196 bp of mt genome	16195 bp of mt genome	B1a1j	n/a	Pang et al. 2009	y	y									
+Dog	0			Belgium	Europe	KJ637111.1	mixed breed	Be47_1	eDog_Be47_1_BE_HgB1a1m	16530 bp of mt genome	16430 bp of mt genome	B1a1m	n/a	Verscheure et al. 2014	y	y									
+Dog	0			Belgium	Europe	KJ637107.1	mixed breed	Be44_1	eDog_Be44_1_BE_HgB1a1n	16530 bp of mt genome	16430 bp of mt genome	B1a1n	n/a	Verscheure et al. 2014	y	y									
+Dog	0			Belgium	Europe	KJ637110.1	mixed breed	Be46_1	eDog_Be46_1_BE_HgB1a1o	16529 bp of mt genome	16429 bp of mt genome	B1a1o	n/a	Verscheure et al. 2014	y	y									
+Dog	0			Belgium	Europe	KJ637113.1	Labrador Retriever	Be47_11	eDog_Be47_11_BE_HgB1a1p	16530 bp of mt genome	16430 bp of mt genome	B1a1p	n/a	Verscheure et al. 2014	y	y									
+Dog	0			Scandinavia	Europe	EU789774.1	Jamthund	C3_D13	eDog_C3_D13_Scandinavia_HgC2a2a	16196 bp of mt genome	16196 bp of mt genome	C2a2a	n/a	Pang et al. 2009	y	y									
+Dog	0			Belgium	Europe	KJ637136.1	Cocker Spaniel	Be53_1	eDog_Be53_1_BE_HgC2a5	16530 bp of mt genome	16430 bp of mt genome	C2a5	n/a	Verscheure et al. 2014	y	y									
+Dog	0			Turkey	Middle East	EU789654.1	Kangal	D5_m98	eDog_D5_m98_TR_HgD1	16195 bp of mt genome	16194 bp of mt genome	D1	n/a	Pang et al. 2009	y	y									
+Dog	0			Sweden	Europe	DQ480502.1	Jämthund	n/a	eDog_Jamthund2_SE_HgD2a	16729 bp of mt genome	16709 bp of mt genome	D2a	n/a	Björnerfeldt et al. 2006	y	y									
+Dog	0			Scandinavia	Europe	EU789783.1	Jämthund	D8_D14	eDog_D8_D14_Scandinavia_HgD2a1	16195 bp of mt genome	16195 bp of mt genome	D2a1	n/a	Pang et al. 2009	y	y									
+Dog	0			Sweden	Europe	DQ480499.1	Siberian Husky	n/a	eDog_Husky_SE_HgA1b 	16730 bp of mt genome	16711 bp of mt genome	A1b	n/a	Bjornerfeldt et al. 2006	y	y									
+Dog	0			Sweden	Europe	DQ480492.1	Jämthund	n/a	eDog_Jamthund1_SE_HgD	16729 bp of mt genome	16721 bp of mt genome	D	n/a	Bjornerfeldt et al. 2006	y	y									
+Dog	0			Sweden	Europe	DQ480495.1	Cocker spaniel	n/a	eDog_CS_SE_HgA1a	16730 bp of mt genome	16720 bp of mt genome	A1a	n/a	Bjornerfeldt et al. 2006	y	y									
+Dog	0			Sweden	Europe	DQ480489.1	German Shepherd	n/a	 eDog_GS_SE_HgC 	16730 bp of mt genome	16724 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	y	y									
+Dog	0			Sweden	Europe	DQ480501.1	Elkhound	n/a	eDog_Elkhound_SE_HgC 	16730 bp of mt genome	16715 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	y	y									
+Dog	0			Sweden	Europe	DQ480493.1	Black Russian Terrier	n/a	eDog_BRT_SE_HgC	16730 bp of mt genome	16715 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916015	Castro Laboreiro Watchdog	DOGPT12	eDog_PT12-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Morocco	North Africa	MW916016	Aidi	DOGAfr13	eDog_Afr13-Aidi_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Morocco	North Africa	MW916017	Aidi	DOGAfr14	eDog_Afr14-Aidi_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Morocco	North Africa	MW916018	Aidi	DOGAfr16	eDog_Afr16-Aidi_MA_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	y	y									
+Dog	0			Morocco	North Africa	MW916019	Aidi	DOGAfr17	eDog_Afr17-Aidi_MA_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916020	Estrela Mountain Dog	DOGPT18	eDog_PT18-EMD_PT_HgC	16731 bp of mt genome	16731 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Morocco	North Africa	MW916021	Sloughi	DOGAfr9	eDog_Afr19-SG_MA_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	y	y									
+Dog	0			Morocco	North Africa	MW916022	Sloughi	DOGAfr20	eDog_Afr20-SG_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Morocco	North Africa	MW916023	Sloughi	DOGAfr21	eDog_Afr21-SG_MA_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916024	Portuguese Water Dog	DOGPT22	eDog_PT22-PWD_PT_HgA	16760 bp of mt genome	16760 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916025	Portuguese Water Dog	DOGPT23	eDog_PT23-PWD_PT_HgB	16731 bp of mt genome	16731 bp of mt genome	n/a	B	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916026	Estrela Mountain Dog	DOGPT24	eDog_PT24-EMD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916027	Portuguese Water Dog	DOGPT25	eDog_PT25-PWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916028	Portuguese Water Dog	DOGPT26	eDog_PT26-PWD_PT_HgB	16771 bp of mt genome	16771 bp of mt genome	n/a	B	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916029	Azores Cattle Dog	DOGPT27	eDog_PT27-ACD_PT_HgA	16733 bp of mt genome	16733 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916030	Azores Cattle Dog	DOGPT28	eDog_PT28-ACD_PT_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916031	Azores Cattle Dog	DOGPT29	eDog_PT29-ACD_PT_HgC	16729 bp of mt genome	16729 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916032	Azores Cattle Dog	DOGPT30	eDog_PT30-ACD_PT_HgC	16731 bp of mt genome	16731 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916033	Castro Laboreiro Watchdog	DOGPT31	eDog_PT31-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916034	Castro Laboreiro Watchdog	DOGPT32	eDog_PT32-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916035	Castro Laboreiro Watchdog	DOGPT33	eDog_PT33-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916036	Castro Laboreiro Watchdog	DOGPT34	eDog_PT34-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916037	Castro Laboreiro Watchdog	DOGPT35	eDog_PT35-CLWD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916038	Portuguese Warren Hound (Large wire-haired)	DOGPT36	eDog_PT36-PWH_PT_HgA	16760 bp of mt genome	16760 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916039	Portuguese Warren Hound (Medium-sized wire-haired)	DOGPT37	eDog_PT37-PWH_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916040	Portuguese Warren Hound (Medium-sized wire-haired)	DOGPT38	eDog_PT38-PWH_PT_HgB	16720 bp of mt genome	16720 bp of mt genome	n/a	B	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916041	Portuguese Warren Hound (Small wire-haired)	DOGPT39	eDog_PT39-PWH_PT_HgB	16730 bp of mt genome	16730 bp of mt genome	n/a	B	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916042	Portuguese Warren Hound (Small wire-haired)	DOGPT40	eDog_PT40-PWH_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916043	Portuguese Warren Hound (Small short-haired)	DOGPT41	eDog_PT41-PWH_PT_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916044	Rafeiro of Alentejo	DOGPT42	eDog_PT42-RA_PT_HgC	16730 bp of mt genome	16730 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916045	Rafeiro of Alentejo	DOGPT43	eDog_PT43-RA_PT_HgC	16730 bp of mt genome	16730 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916046	Rafeiro of Alentejo	DOGPT44	eDog_PT44-RA_PT_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916047	Rafeiro of Alentejo	DOGPT45	eDog_PT45-RA_PT_HgC	16731 bp of mt genome	16730 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916048	Rafeiro of Alentejo	DOGPT46	eDog_PT46-RA_PT_HgB	16730 bp of mt genome	16730 bp of mt genome	n/a	B	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916049	Estrela Mountain Dog	DOGPT49	eDog_PT49-EMD_PT_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916050	Estrela Mountain Dog	DOGPT50	eDog_PT50-EMD_PT_HgA	16732 bp of mt genome	16732 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916051	Estrela Mountain Dog	DOGPT51	eDog_PT51-EMD_PT_HgD	16729 bp of mt genome	16729 bp of mt genome	n/a	D	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916052	Estrela Mountain Dog	DOGPT52	eDog_PT52-EMD_PT_HgC	16700 bp of mt genome	16700 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916053	Portuguese Sheepdog	DOGPT53	eDog_PT53-PSD_PT_HgA	16720 bp of mt genome	16716 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916054	Portuguese Sheepdog	DOGPT54	eDog_PT54-PSD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916055	Portuguese Sheepdog	DOGPT55	eDog_PT55-PSD_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916056	Portuguese Sheepdog	DOGPT56	eDog_PT56-PSD_PT_HgC	16731 bp of mt genome	16730 bp of mt genome	n/a	C	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916057	Portuguese Pointer	DOGPT57	eDog_PT57-PP_PT_HgA	16710 bp of mt genome	16710 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916058	Portuguese Pointer	DOGPT58	eDog_PT58-PP_PT_HgA	16760 bp of mt genome	16760 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916059	Portuguese Pointer	DOGPT59	eDog_PT59-PP_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916060	Portuguese Pointer	DOGPT60	eDog_PT60-PP_PT_HgA	16710 bp of mt genome	16710 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916061	Barrocal Algarvio	DOGPT61	eDog_PT61-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916062	Barrocal Algarvio	DOGPT62	eDog_PT62-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916063	Barrocal Algarvio	DOGPT63	eDog_PT63-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916064	Barrocal Algarvio	DOGPT64	eDog_PT64-BA_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916065	 Trasmontano Mastiff	DOGPT66	eDog_PT66-TM_PT_HgA	16730 bp of mt genome	16728 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916066	 Trasmontano Mastiff	DOGPT67	eDog_PT67-TM_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916067	Portuguese Pointer	DOGPT69	eDog_PT69-PP_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Dog	0			Portugal	Iberian Peninsula	MW916068	Portuguese Pointer	DOGPT70	eDog_PT70-PP_PT_HgA	16730 bp of mt genome	16730 bp of mt genome	n/a	A	This study	y	y									
+Wolf	0			Spain	Iberian Peninsula	KU644670.1	n/a	SpanishWolf2	eWolf1_ES	16580 bp of mt  genome	16557 bp of mt  genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Portugal	Iberian Peninsula	KU644668.1	n/a	PortugueseWolf	eWolf2_PT	16520 bp of mt  genome	16519 bp of mt  genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Portugal	Iberian Peninsula	KT448278.1	n/a	CLU_PT	eWolf3_PT	16729 bp of mt  genome	16721 bp of mt  genome	n/a	n/a	Koeplfi et al. 2015	y										
+Wolf	0			Spain	Iberian Peninsula	DQ480505.1	n/a	n/a	eWolf4_ES	16729 bp of mt  genome	16725 bp of mt  genome	n/a	n/a	Bjornerfeldt et al. 2006	y										
+Wolf	0			Portugal	Iberian Peninsula	MW916078	n/a	LUP006829	eWolf5_PT_Hg1	16759 bp of mt genome	16759 bp of mt genome	n/a	WolfHg1	This study2	y										
+Wolf	0			Portugal	Iberian Peninsula	MW916079	n/a	LUP006830	eWolf6_PT_Hg1	16759 bp of mt genome	16759 bp of mt genome	n/a	WolfHg1	This study2	y										
+Wolf	0			Sweden	Europe	AM711902.1	n/a	Sweden1	eWolf16_SE	16757 pb of mt genome	16757 pb of mt genome	B2 (Duleba et al 2015)	n/a	Arnason et al. 2007	y										
+Wolf	0			Finland	Europe	KF661038.1	n/a	Finland	eWolf19_FI	16727 pb of mt genome	16402 pb of mt genome	B'C'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Russia	Russia/Caucasus	KF661039.1	n/a	Russia1	eWolf20_RU	16727 pb of mt genome	15926 pb of mt genome	B'C'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Sweden	Europe	KF661040.1	n/a	Sweden2	eWolf21_SE	16727 pb of mt genome	16413 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Israel	Middle East	KF661042.1	n/a	Israel1	eWolf23_IL	16727 pb of mt genome	16412 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Russia	Russia/Caucasus	KF661044.1	n/a	Russia2	eWolf25_RU	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Poland	Europe	KF661045.1	n/a	Poland1	eWolf26_PL	16727 pb of mt genome	16417 pb of mt genome	D (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Russia	Russia/Caucasus	KF661046.1	n/a	Russia3	eWolf27_RU	16727 pb of mt genome	16414 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Ukraine	Europe	KF661047.1	n/a	Ukraine	eWolf28_UA	16727 pb of mt genome	16416 pb of mt genome	B2 (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Italy	Europe	KF661048.1	n/a	Italy	eWolf29_IT	16727 pb of mt genome	16417 pb of mt genome	D (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Poland	Europe	KF661049.1	n/a	Poland2	eWolf30_PL	16727 pb of mt genome	16415 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Iran	Middle East	KF661051.1	n/a	Iran	eWolf32_IR	16727 pb of mt genome	16418 pb of mt genome	A'B'C'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Sweden	Europe	KF661052.1	n/a	Sweden3	eWolf33_SE	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Croatia	Europe	KF661054.1	n/a	Croatia	eWolf35_HR	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Israel	Middle East	KF661055.1	n/a	Israel2	eWolf36_IL	16727 pb of mt genome	16416 pb of mt genome	B'E (Duleba et al 2015)	n/a	Thalmann et al. 2013	y										
+Wolf	0			Iran	Middle East	KU644671.1	n/a	Iran2	eWolf39_IR	16541 pb of mt genome	16540 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Italy	Europe	KU644662.1	n/a	Italy2	eWolf40_IT	16520 pb of mt genome	16520 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Bulgaria	Europe	KU696388.2	n/a	Bul729	eWolf41_BG	16730 pb of mt genome	16585 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Belarus	Europe	KU696390.1	n/a	Bel13	eWolf43_BY	16730 pb of mt genome	16710 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Ukraine	Europe	KU696397.1	n/a	CLUUkraine	eWolf50_UA	16730 pb of mt genome	16631 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Croatia	Europe	KU696398.1	n/a	Croatia7	eWolf51_HR	16668 pb of mt genome	16668 pb of mt genome	n/a	n/a	Koblmuller et al. 2016	y										
+Wolf	0			Sweden	Europe	DQ480504.1	n/a	Sweden1	eWolf62_SE	16710 pb of mt genome	16710 pb of mt genome	B'E (Duleba et al 2015)	n/a	Bjornerfeldt et al. 2006	y										
+Wolf	0			Russia	Russia/Caucasus	DQ480503.1	n/a	Russia1	eWolf63_RU	16730 pb of mt genome	16718 pb of mt genome	n/a	n/a	Bjornerfeldt et al. 2006	y										
+Wolf	0			Portugal	Iberian Peninsula	MW916087	n/a	IberianWolf714	eWolf67_PT	16732 pb of mt genome	16640 pb of mt genome	n/a	n/a	This study1	y										
+Wolf	0			Afganistan	Middle East	MN071185.1	n/a	Ms1	eWolf72_AF	16737 pb of mt genome	16619 pb of mt genome	n/a	n/a	Loog et al. 2020	y										
+Wolf	0			Denmark	Europe	MN071186.1	n/a	Ms2	eWolf73_DK	16737 pb of mt genome	16730 pb of mt genome	n/a	n/a	Loog et al. 2020	y										
+Wolf	0			Turkey	Middle East	MN071189.1	n/a	Ms6	eWolf77_TR	16737 pb of mt genome	16632 pb of mt genome	n/a	n/a	Loog et al. 2020	y										
+Wolf	0			Syria	Middle East	MN071203.1	n/a	Ms20	eWolf81_SY	16734 pb of mt genome	16726 pb of mt genome	n/a	n/a	 Loog et al. 2020	y										
+Wolf	0			Spain	Iberian Peninsula	MN071205.1	n/a	Ms22	eWolf83_ES	16737 pb of mt genome	16729 pb of mt genome	n/a	n/a	Loog et al. 2020	y										
 																									
 Historic																									
-Dog	1961-1979	Yes	no	Portugal	Iberian Peninsula	MW916080	n/a	LYEP9	eDog_LYEP9_PT	16727 bp of mt  genome	16718 bp of mt  genome	n/a	A	This study	?	?									
-Wolf	1975	no	n/a	Spain	Iberian Peninsula	MW916084	n/a	Cl-H10	eWolf64_ES	16732 pb of mt genome	16580 pb of mt genome	n/a	n/a	This study1	?										
-Wolf	1970	no	n/a	Spain	Iberian Peninsula	MW916085	n/a	Cl-H117	eWolf65_ES	16732 pb of mt genome	16647 pb of mt genome	n/a	n/a	This study1	?										
-Wolf	1944	no	n/a	Spain	Iberian Peninsula	MW916086	n/a	Cl-H119	eWolf66_ES	16732 pb of mt genome	16675 pb of mt genome	n/a	n/a	This study1	?										
+Dog	1961-1979	Yes	no	Portugal	Iberian Peninsula	MW916080	n/a	LYEP9	eDog_LYEP9_PT	16727 bp of mt  genome	16718 bp of mt  genome	n/a	A	This study	y	y									
+Wolf	1975	no	n/a	Spain	Iberian Peninsula	MW916084	n/a	Cl-H10	eWolf64_ES	16732 pb of mt genome	16580 pb of mt genome	n/a	n/a	This study1	y										
+Wolf	1970	no	n/a	Spain	Iberian Peninsula	MW916085	n/a	Cl-H117	eWolf65_ES	16732 pb of mt genome	16647 pb of mt genome	n/a	n/a	This study1	y										
+Wolf	1944	no	n/a	Spain	Iberian Peninsula	MW916086	n/a	Cl-H119	eWolf66_ES	16732 pb of mt genome	16675 pb of mt genome	n/a	n/a	This study1	y										
 																									
 Chalcolithic																									
-Dog	4517-4295	yes	no	Leceia, Portugal	Iberian Peninsula	MW916081	n/a	LYEP11	aDog_LYEP11_PT	16727 bp of mt  genome	16720 bp of mt  genome	n/a	A	This study	?	?									
-Dog	4800-4290	no (indirect dating)	no	Valladolid, Spain	Iberian Peninsula	MW916082	n/a	LYEP51	aDog_LYEP51_ES	16727 bp of mt  genome	16572 bp of mt  genome	n/a	C	This study	?	?									
-Dog	4820-4290	no (indirect dating)	no	Valladolid, Spain	Iberian Peninsula	MW916083	n/a	LYEP53	aDog_LYEP53_ES	16727 bp of mt  genome	16623 bp of mt  genome	n/a	C	This study	?	?									
-Dog	5107-5041	no (direct dating, uncalibrated)	no	Tepe Ghela Gap, Iran	Middle East	n/a	n/a	AL2571	aDog_AL2571_IR_HgA	16729 bp of mt  genome	16661  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	4500	no	no	Alymas-Podunavlje, Croatia	Europe	n/a	n/a	ALPO01	aDog_ALPO01_HR_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	4260-4180	no (direct dating, uncalibrated)	no	Sotin, Croatia	Europe	n/a	n/a	SOTN01	aDog_SOTN01_HR_HgD	16729 bp of mt  genome	16724  bp of mt  genome	D	n/a	Bergstrom et al. (unpublished data)	?	?									
+Dog	4517-4295	yes	no	Leceia, Portugal	Iberian Peninsula	MW916081	n/a	LYEP11	aDog_LYEP11_PT	16727 bp of mt  genome	16720 bp of mt  genome	n/a	A	This study	y	y									
+Dog	4800-4290	no (indirect dating)	no	Valladolid, Spain	Iberian Peninsula	MW916082	n/a	LYEP51	aDog_LYEP51_ES	16727 bp of mt  genome	16572 bp of mt  genome	n/a	C	This study	y	y									
+Dog	4820-4290	no (indirect dating)	no	Valladolid, Spain	Iberian Peninsula	MW916083	n/a	LYEP53	aDog_LYEP53_ES	16727 bp of mt  genome	16623 bp of mt  genome	n/a	C	This study	y	y									
+Dog	5107-5041	no (direct dating, uncalibrated)	no	Tepe Ghela Gap, Iran	Middle East	n/a	n/a	AL2571	aDog_AL2571_IR_HgA	16729 bp of mt  genome	16661  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	4500	no	no	Alymas-Podunavlje, Croatia	Europe	n/a	n/a	ALPO01	aDog_ALPO01_HR_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	4260-4180	no (direct dating, uncalibrated)	no	Sotin, Croatia	Europe	n/a	n/a	SOTN01	aDog_SOTN01_HR_HgD	16729 bp of mt  genome	16724  bp of mt  genome	D	n/a	Bergstrom et al. (unpublished data)	y	y									
 																									
 Neolithic																									
-Dog	7173-6990	yes	no	Herxheim, Germany	Europe	KX379529.1	n/a	HXH	aDog_HXH_DE_HgC	16725 bp of mt  genome	16725 bp of mt  genome	C	n/a	Botigué et al. 2017	?	?									
-Dog	4850-4582	yes	no	Cherry Tree Cave, Germany	Europe	KX379528.1	n/a	CTC	aDog_CTC_DE_HgC	16722 bp of mt  genome	16722 bp of mt  genome	C	n/a	Botigué et al. 2017	?	?									
-Dog	4900-4700 	yes	no	Newgrange, Ireland	Europe	n/a	n/a	NGD	aDog_NGD_IE_HgC	16733  bp of mt  genome	16729 bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	6030-5966	no (direct dating, uncalibrated)	no	Plo?nik, Serbia	Europe	n/a	n/a	AL2946 	aDog_AL2946_RS_HgD	16726 bp of mt  genome	16418 bp of mt genome	D	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	5000	no	yes	Frälsegården, Gökhem, Sweden	Europe	n/a	n/a	C88	aDog_C88_SE_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	4800	no	yes	Ajvide, Gotland, Sweden	Europe	n/a	n/a	C89	aDog_C89_SE_HgC	16729 bp of mt  genome	16724  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	4800	no	yes	Ajvide, Gotland, Sweden	Europe	n/a	n/a	C90	aDog_C90_SE_HgC	16729 bp of mt  genome	16706  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	5424-5356	no (direct dating, uncalibrated)	no	Marizulo Cave, Gipuzkoa, Spain	Iberiann Peninsula	n/a	n/a	OL4029	aDog_OL4029_ES_HgC	16697 bp of mt  genome	15703  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	5778-5708	no (direct dating, uncalibrated)	no	Skoteini cave, Tharrounia, Euboea Island, Greece	Europe	n/a	n/a	OL4222	aDog_OL4222_GR_HgD	16729 bp of mt  genome	15735  bp of mt  genome	D	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	7000	no	yes	Tel Hreiz, Israel	Middle East	n/a	n/a	THRZ02	aDog_THRZ02_IL_HgA	16729 bp of mt  genome	15164  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
+Dog	7173-6990	yes	no	Herxheim, Germany	Europe	KX379529.1	n/a	HXH	aDog_HXH_DE_HgC	16725 bp of mt  genome	16725 bp of mt  genome	C	n/a	Botigué et al. 2017	y	y									
+Dog	4850-4582	yes	no	Cherry Tree Cave, Germany	Europe	KX379528.1	n/a	CTC	aDog_CTC_DE_HgC	16722 bp of mt  genome	16722 bp of mt  genome	C	n/a	Botigué et al. 2017	y	y									
+Dog	4900-4700 	yes	no	Newgrange, Ireland	Europe	n/a	n/a	NGD	aDog_NGD_IE_HgC	16733  bp of mt  genome	16729 bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	6030-5966	no (direct dating, uncalibrated)	no	Plo?nik, Serbia	Europe	n/a	n/a	AL2946 	aDog_AL2946_RS_HgD	16726 bp of mt  genome	16418 bp of mt genome	D	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	5000	no	yes	Frälsegården, Gökhem, Sweden	Europe	n/a	n/a	C88	aDog_C88_SE_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	4800	no	yes	Ajvide, Gotland, Sweden	Europe	n/a	n/a	C89	aDog_C89_SE_HgC	16729 bp of mt  genome	16724  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	4800	no	yes	Ajvide, Gotland, Sweden	Europe	n/a	n/a	C90	aDog_C90_SE_HgC	16729 bp of mt  genome	16706  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	5424-5356	no (direct dating, uncalibrated)	no	Marizulo Cave, Gipuzkoa, Spain	Iberiann Peninsula	n/a	n/a	OL4029	aDog_OL4029_ES_HgC	16697 bp of mt  genome	15703  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	5778-5708	no (direct dating, uncalibrated)	no	Skoteini cave, Tharrounia, Euboea Island, Greece	Europe	n/a	n/a	OL4222	aDog_OL4222_GR_HgD	16729 bp of mt  genome	15735  bp of mt  genome	D	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	7000	no	yes	Tel Hreiz, Israel	Middle East	n/a	n/a	THRZ02	aDog_THRZ02_IL_HgA	16729 bp of mt  genome	15164  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
 																									
 Mesolithic																									
-Dog	9255-9015	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG7	aDog_CGG7_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8995-8715	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG5	aDog_CGG5_RU_HgA	16727  bp of mt genome	16717  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	9015-8775	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG1	aDog_CGG1_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	9545-9460	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG9	aDog_CGG9_RU_HgA	16727  bp of mt genome	16715  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	9005-8760 	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG4	aDog_CGG4_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8960-8910	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG2	aDog_CGG2_RU_HgA	16727  bp of mt genome	16674  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8635-8480	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG3	aDog_CGG3_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8995-8660	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG8	aDog_CGG8_RU_HgA	16727  bp of mt genome	16617  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	6153-6091	no (direct dating, uncalibrated)	yes	Pad' Kalashnikova, Russia	Russia/Caucasus	n/a	n/a	C26	aDog_C26_RU_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	6465-6395	no (direct dating, uncalibrated)	yes	Shamanka II, Russia	Russia/Caucasus	n/a	n/a	C27	aDog_C27_RU_HgC	16726 bp of mt  genome	16691  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	9625-9525	no (direct dating, uncalibrated)	no	Veretye, Lake Lacha, Russia	Russia/Caucasus	n/a	n/a	OL4061	aDog_OL4061_RU_HgA	16729 bp of mt  genome	16724 bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	6107-6043	no (direct dating, uncalibrated)	no	Pad' Kalashnikova, Russia	Russia/Caucasus	n/a	n/a	OL4223	aDog_OL4223_RU_HgA	16729 bp of mt  genome	16702 bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
-Archaic Canid	6287-6033	yes	no	Trou de Frontal, Belgium	Europe	MK937047.1	n/a	TU4	aWolf32_BE	16430 bp of mt  genome	16139 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	7435-7316	yes	no	Trou de Praules, Belgium	Europe	MK937051.1	n/a	TU8	aWolf35_BE	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
+Dog	9255-9015	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG7	aDog_CGG7_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	8995-8715	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG5	aDog_CGG5_RU_HgA	16727  bp of mt genome	16717  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	9015-8775	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG1	aDog_CGG1_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	9545-9460	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG9	aDog_CGG9_RU_HgA	16727  bp of mt genome	16715  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	9005-8760 	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG4	aDog_CGG4_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	8960-8910	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG2	aDog_CGG2_RU_HgA	16727  bp of mt genome	16674  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	8635-8480	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG3	aDog_CGG3_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	8995-8660	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG8	aDog_CGG8_RU_HgA	16727  bp of mt genome	16617  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	y	y									
+Dog	6153-6091	no (direct dating, uncalibrated)	yes	Pad' Kalashnikova, Russia	Russia/Caucasus	n/a	n/a	C26	aDog_C26_RU_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	6465-6395	no (direct dating, uncalibrated)	yes	Shamanka II, Russia	Russia/Caucasus	n/a	n/a	C27	aDog_C27_RU_HgC	16726 bp of mt  genome	16691  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	9625-9525	no (direct dating, uncalibrated)	no	Veretye, Lake Lacha, Russia	Russia/Caucasus	n/a	n/a	OL4061	aDog_OL4061_RU_HgA	16729 bp of mt  genome	16724 bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
+Dog	6107-6043	no (direct dating, uncalibrated)	no	Pad' Kalashnikova, Russia	Russia/Caucasus	n/a	n/a	OL4223	aDog_OL4223_RU_HgA	16729 bp of mt  genome	16702 bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	y	y									
+Archaic Canid	6287-6033	yes	no	Trou de Frontal, Belgium	Europe	MK937047.1	n/a	TU4	aWolf32_BE	16430 bp of mt  genome	16139 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	7435-7316	yes	no	Trou de Praules, Belgium	Europe	MK937051.1	n/a	TU8	aWolf35_BE	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
 																									
 Palaeolithic																									
-Dog	12500	no	no	Kartstein cave, Germany	Europe	KF661094.1	n/a	Germany 12,500	aDog_Ger12500_DE_HgC	16714 bp of mt  genome	16239 bp of mt  genome	C	n/a	Thalmann et al. 2013	?	?									
-Archaic Canid	15179-14757	yes	no	 Kesslerloch cave, Switzerland	Europe	MK937033.1	n/a	TH7	aWolf2_CH	16390 bp of mt  genome	16289 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	18000	no	no	 Medvezhya cave, Russia	Russia/Caucasus	KF661081.1	n/a	n/a	aWolf3_RU	16726 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Thalmann et al. 2013	?										
-Archaic Canid	29184-28485	yes	no	Goyet cave, Belgium	Europe	MK937029.1	n/a	TH3	aWolf4_BE	16384 bp of mt  genome	16284 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	39387-37576	yes	no	Goyet cave, Belgium	Europe	MK937049.1	n/a	TU6	aWolf5_BE	16430 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	26229-25844	yes	no	Trou des Nutons, Belgium	Europe	MK937027.1	n/a	TH1	aWolf6_BE	16358 bp of mt  genome	15735 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	29272	no	no	Kostenki, Russia	Russia/Caucasus	MK937032.1	n/a	TH6	aWolf7_RU	16398 bp of mt  genome	16379 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	14872-14213	yes	no	 Kesslerloch cave, Switzerland	Europe	MK937023.1	n/a	TH15	aWolf9_CH	16414 bp of mt genome	15667 bp of mt genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	34376-33720	yes	no	Razboinichya cave, Altai, Russia	Russia/Caucasus	MK937020.1	n/a	TH12	aWolf13_RU	16428 bp of mt  genome	16409 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	55643	no	no	Duvannyi Yar, Kolyma river, Russia/Siberia	Russia/Caucasus	MK936995.1	n/a	CGG12	aWolf14_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	33285-32183	yes	no	Yana site, YMAM locality, Russia/Siberia	Russia/Caucasus	MK936997.1	n/a	CGG14	aWolf15_RU	16430 bp of mt  genome	16417 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	33405-32446	yes	no	Yana site, YMAM locality, Russia/Siberia	Russia/Caucasus	MK936998.1	n/a	CGG15	aWolf16_RU	16430 bp of mt  genome	16413 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	28912-28127	yes	no	Yana site, YMAM locality, Russia/Siberia	Russia/Caucasus	MK937000.1	n/a	CGG17	aWolf18_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	42328-41149	yes	no	Yana site area, Upstream Point locality Russia/Siberia	Russia/Caucasus	MK937001.1	n/a	CGG18	aWolf19_RU	16430 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	19940-19480	yes	no	Mus-Khaya exposure, Russia/Siberia	Russia/Caucasus	MK937002.1	n/a	CGG19	aWolf20_RU	16385 bp of mt  genome	16236 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	13765-13555	yes	no	Nikita Lake site, Muksunuokha river, Russia/Siberia	Russia/Caucasus	MK937003.1	n/a	CGG20	aWolf21_RU	16344 bp of mt  genome	15631 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	14394-13555	yes	no	Berelekh geoarchaeological complex, Berelekh river, Russia/Siberia	Russia/Caucasus	MK937004.1	n/a	CGG21	aWolf22_RU	16385 bp of mt  genome	16184 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	31604-31150	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937005.1	n/a	CGG22	aWolf23_RU	16394 bp of mt  genome	16124 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	31757-31090	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937008.1	n/a	CGG25	aWolf24_RU	16402 bp of mt  genome	16275 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	31568-31134	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937009.1	n/a	CGG26	aWolf25_RU	16396 bp of mt  genome	15893 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	33359-32329	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937010.1	n/a	CGG27	aWolf26_RU	16421 bp of mt  genome	16403 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	32333-31183	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937011.1	n/a	CGG28	aWolf27_RU	16389 bp of mt  genome	15185 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	50000-46419	yes	no	Bunge-Toll-1885 site, Yana river, Russia/Siberia	Russia/Caucasus	MK937012.1	n/a	CGG29	aWolf28_RU	16423 bp of mt  genome	16316 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	12957-12717	yes	no	Trou de l'Ours, Belgium	Europe	MK937048.1	n/a	TU5	aWolf33_BE	16430 bp of mt  genome	15364 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	48258-44439	yes	no	Caverne Marie-Jeanne, Belgium	Europe	MK937050.1	n/a	TU7	aWolf34_BE	16430 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	31340-30879	yes	no	 Aghitu, Armenia 	Russia/Caucasus	MK937052.1	n/a	TU9	aWolf36_AM	16430 bp of mt  genome	16298 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	30351-29563	yes	no	 Aghitu, Armenia 	Russia/Caucasus	MK937036.1	n/a	TU10	aWolf37_AM	16430 bp of mt  genome	16411 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	14286-13975	yes	no	 Kesslerloch, Switzerland	Europe	MK937037.1	n/a	TU11	aWolf38_CH	16430 bp of mt  genome	16382 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	14256-13984	yes	no	 Kesslerloch, Switzerland	Europe	MK937039.1	n/a	TU13	aWolf39_CH	16389 bp of mt  genome	16043 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	35659-34142	yes	no	Taymyr, Russia/Siberia	Russia/Caucasus	MK937053.1	n/a	SK1	aWolf42_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	 Loog et al. 2020	?										
-Archaic Canid	55000-50000	yes	no	Tirektyakh, Russia/Siberia	Russia/Caucasus	MK937015.1	n/a	CGG32	aWolf43_RU	16415 bp of mt  genome	16192 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	17142-16585	yes	no	Ulakhan Sular, Russia/Siberia	Russia/Caucasus	MK937016.1	n/a	CGG33	aWolf44_RU	16410 bp of mt  genome	16341 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	1437213759	yes	no	Grotta Paglicci, Italy	Europe	MH376892.1	n/a	paglicci_14000	aWolf45_IT	16351 bp of mt  genome	15044 bp of mt  genome	n/a	n/a	Boschin et al 2020	?										
+Dog	12500	no	no	Kartstein cave, Germany	Europe	KF661094.1	n/a	Germany 12,500	aDog_Ger12500_DE_HgC	16714 bp of mt  genome	16239 bp of mt  genome	C	n/a	Thalmann et al. 2013	y	y									
+Archaic Canid	15179-14757	yes	no	 Kesslerloch cave, Switzerland	Europe	MK937033.1	n/a	TH7	aWolf2_CH	16390 bp of mt  genome	16289 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	18000	no	no	 Medvezhya cave, Russia	Russia/Caucasus	KF661081.1	n/a	n/a	aWolf3_RU	16726 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Thalmann et al. 2013	y										
+Archaic Canid	29184-28485	yes	no	Goyet cave, Belgium	Europe	MK937029.1	n/a	TH3	aWolf4_BE	16384 bp of mt  genome	16284 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	39387-37576	yes	no	Goyet cave, Belgium	Europe	MK937049.1	n/a	TU6	aWolf5_BE	16430 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	26229-25844	yes	no	Trou des Nutons, Belgium	Europe	MK937027.1	n/a	TH1	aWolf6_BE	16358 bp of mt  genome	15735 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	29272	no	no	Kostenki, Russia	Russia/Caucasus	MK937032.1	n/a	TH6	aWolf7_RU	16398 bp of mt  genome	16379 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	14872-14213	yes	no	 Kesslerloch cave, Switzerland	Europe	MK937023.1	n/a	TH15	aWolf9_CH	16414 bp of mt genome	15667 bp of mt genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	34376-33720	yes	no	Razboinichya cave, Altai, Russia	Russia/Caucasus	MK937020.1	n/a	TH12	aWolf13_RU	16428 bp of mt  genome	16409 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	55643	no	no	Duvannyi Yar, Kolyma river, Russia/Siberia	Russia/Caucasus	MK936995.1	n/a	CGG12	aWolf14_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	33285-32183	yes	no	Yana site, YMAM locality, Russia/Siberia	Russia/Caucasus	MK936997.1	n/a	CGG14	aWolf15_RU	16430 bp of mt  genome	16417 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	33405-32446	yes	no	Yana site, YMAM locality, Russia/Siberia	Russia/Caucasus	MK936998.1	n/a	CGG15	aWolf16_RU	16430 bp of mt  genome	16413 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	28912-28127	yes	no	Yana site, YMAM locality, Russia/Siberia	Russia/Caucasus	MK937000.1	n/a	CGG17	aWolf18_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	42328-41149	yes	no	Yana site area, Upstream Point locality Russia/Siberia	Russia/Caucasus	MK937001.1	n/a	CGG18	aWolf19_RU	16430 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	19940-19480	yes	no	Mus-Khaya exposure, Russia/Siberia	Russia/Caucasus	MK937002.1	n/a	CGG19	aWolf20_RU	16385 bp of mt  genome	16236 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	13765-13555	yes	no	Nikita Lake site, Muksunuokha river, Russia/Siberia	Russia/Caucasus	MK937003.1	n/a	CGG20	aWolf21_RU	16344 bp of mt  genome	15631 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	14394-13555	yes	no	Berelekh geoarchaeological complex, Berelekh river, Russia/Siberia	Russia/Caucasus	MK937004.1	n/a	CGG21	aWolf22_RU	16385 bp of mt  genome	16184 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	31604-31150	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937005.1	n/a	CGG22	aWolf23_RU	16394 bp of mt  genome	16124 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	31757-31090	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937008.1	n/a	CGG25	aWolf24_RU	16402 bp of mt  genome	16275 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	31568-31134	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937009.1	n/a	CGG26	aWolf25_RU	16396 bp of mt  genome	15893 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	33359-32329	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937010.1	n/a	CGG27	aWolf26_RU	16421 bp of mt  genome	16403 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	32333-31183	yes	no	Yana site, Northern Point Locality, Russia/Siberia	Russia/Caucasus	MK937011.1	n/a	CGG28	aWolf27_RU	16389 bp of mt  genome	15185 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	50000-46419	yes	no	Bunge-Toll-1885 site, Yana river, Russia/Siberia	Russia/Caucasus	MK937012.1	n/a	CGG29	aWolf28_RU	16423 bp of mt  genome	16316 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	12957-12717	yes	no	Trou de l'Ours, Belgium	Europe	MK937048.1	n/a	TU5	aWolf33_BE	16430 bp of mt  genome	15364 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	48258-44439	yes	no	Caverne Marie-Jeanne, Belgium	Europe	MK937050.1	n/a	TU7	aWolf34_BE	16430 bp of mt  genome	16415 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	31340-30879	yes	no	 Aghitu, Armenia 	Russia/Caucasus	MK937052.1	n/a	TU9	aWolf36_AM	16430 bp of mt  genome	16298 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	30351-29563	yes	no	 Aghitu, Armenia 	Russia/Caucasus	MK937036.1	n/a	TU10	aWolf37_AM	16430 bp of mt  genome	16411 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	14286-13975	yes	no	 Kesslerloch, Switzerland	Europe	MK937037.1	n/a	TU11	aWolf38_CH	16430 bp of mt  genome	16382 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	14256-13984	yes	no	 Kesslerloch, Switzerland	Europe	MK937039.1	n/a	TU13	aWolf39_CH	16389 bp of mt  genome	16043 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	35659-34142	yes	no	Taymyr, Russia/Siberia	Russia/Caucasus	MK937053.1	n/a	SK1	aWolf42_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	 Loog et al. 2020	y										
+Archaic Canid	55000-50000	yes	no	Tirektyakh, Russia/Siberia	Russia/Caucasus	MK937015.1	n/a	CGG32	aWolf43_RU	16415 bp of mt  genome	16192 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	17142-16585	yes	no	Ulakhan Sular, Russia/Siberia	Russia/Caucasus	MK937016.1	n/a	CGG33	aWolf44_RU	16410 bp of mt  genome	16341 bp of mt  genome	n/a	n/a	Loog et al. 2020	y										
+Archaic Canid	1437213759	yes	no	Grotta Paglicci, Italy	Europe	MH376892.1	n/a	paglicci_14000	aWolf45_IT	16351 bp of mt  genome	15044 bp of mt  genome	n/a	n/a	Boschin et al 2020	y										
 																									
 		References:																							
 		Arnason, U. et al. (2007) Mitogenomic analyses of caniform relationships, Molecular phylogenetics and evolution, 45(3), pp. 863874. https://doi.org/10.1016/j.ympev.2007.06.019.																							
@@ -234,767 +234,4 @@ Archaic Canid	1437213759	yes	no	Grotta Paglicci, Italy	Europe	MH376892.1	n/a	p
 																									
 		1 Fasta sequences shared by Raquel Godinho (BIOPOLIS-CIBIO/InBIO-EcoGenomics group)																							
 		2 Raw data generated within the framework of a collaboration with Greger Larson (Palaeogenomics & Bio-Archaeology Research Network, School of Archaeology, Oxford, UK)																							
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
+			
