@@ -8,5 +8,5 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 # #POP_GEN - Population analyses based on variant calling
 
 # #Chalcolithic_Paper
-Scripts and pipelines used to analyze extant and acient HTS data for the paper "A multidisciplinary study of Iberian Chalcolithic dogs" published in JAS:Reports.
+Scripts and pipelines used to analyze extant (DOGPT12-DOGPT70) and acient HTS data (see Table_S2) for the paper "A multidisciplinary study of Iberian Chalcolithic dogs" published in JAS:Reports.
 
