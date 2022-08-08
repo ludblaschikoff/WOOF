@@ -26,13 +26,13 @@ Dog	0			Russia	Russia/Caucasus	KM061561.1	Black Russian Terrier	stp75	eDog_stp75
 Dog	0			Iran	Middle East	EU789735	n/a	A11_m54	eDog_A11_m54_IR_HgA1a1	16196 bp of mt genome	16195 bp of mt genome	A1a1	n/a	Pang et al. 2009	?	?									
 Dog	0			Great Britain	Europe	AY656747.1	Welsh Springer Spaniel	WSS	eDog_WSS_UK_HgA1a1a	16770 bp of mt genome	16770 bp of mt genome	A1a1a	n/a	Shahid et al. (unpublished data)	?	?									
 Dog	0			Great Britain	Europe	AY656744.1	English Springer Spaniel	ESS	eDog_ESS_UK_HgA1a1c	16730 bp of mt genome	16730 bp of mt genome	A1a1c	n/a	Shahid et al. (unpublished data)	?	?									
-Dog	0			Great Britain	Europe	DQ480496.1	Irish Soft Coated Wheaten Terrier	ISCWT	eDog_ISCWT_UK_HgA1a1d	16729 bp of mt genome	16722 bp of mt genome	A1a1d	n/a	Björnerfeldt et al.2006	?	?									
+Dog	0			Great Britain	Europe	DQ480496.1	Irish Soft Coated Wheaten Terrier	ISCWT	eDog_ISCWT_UK_HgA1a1d	16729 bp of mt genome	16722 bp of mt genome	A1a1d	n/a	BjÃ¶rnerfeldt et al.2006	?	?									
 Dog	0			Great Britain	Europe	EU789728.1	Golden Retriever	A16_R108	eDog_A16_R108_UK_HgA1b1a2	16198 bp of mt genome	16197 bp of mt genome	A1b1a2	n/a	Pang et al. 2009	?	?									
 Dog	0			Great Britain	Europe	EU789683.1	Border collie	A1_R105	eDog_A1_R105_UK_HgA1b2a2b	16196 bp of mt genome	16195 bp of mt genome	A1b2a2b	n/a	Pang et al. 2009	?	?									
-Dog	0			Sweden	Europe	DQ480497.1	West Highland White Terrier	WHWT	eDog_WHWT_SE_HgA1b2b	16730 bp of mt genome	16725 bp of mt genome	A1b2b	n/a	Björnerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480491.1	Irish Setter	IS1	eDog_IS1_SE_HgA1b3a1	16730 bp of mt genome	16718 bp of mt genome	A1b3a1	n/a	Björnerfeldt et al. 2006	?	?									
+Dog	0			Sweden	Europe	DQ480497.1	West Highland White Terrier	WHWT	eDog_WHWT_SE_HgA1b2b	16730 bp of mt genome	16725 bp of mt genome	A1b2b	n/a	BjÃ¶rnerfeldt et al. 2006	?	?									
+Dog	0			Sweden	Europe	DQ480491.1	Irish Setter	IS1	eDog_IS1_SE_HgA1b3a1	16730 bp of mt genome	16718 bp of mt genome	A1b3a1	n/a	BjÃ¶rnerfeldt et al. 2006	?	?									
 Dog	0			Great Britain	Europe	AY656741.1	Irish Setter	IS2	eDog_IS2_UK_HgA1b3b1	16710 bp of mt genome	16710 bp of mt genome	A1b3b1	n/a	Shahid et al. (unpublished data)	?	?									
-Dog	0			Great Britain	Europe	DQ480500.1	Shetland sheepdog	SS	eDog_SS_UK_HgB1a1a	16730 bp of mt genome	16709 bp of mt genome	B1a1a	n/a	Björnerfeldt et al. 2006	?	?									
+Dog	0			Great Britain	Europe	DQ480500.1	Shetland sheepdog	SS	eDog_SS_UK_HgB1a1a	16730 bp of mt genome	16709 bp of mt genome	B1a1a	n/a	BjÃ¶rnerfeldt et al. 2006	?	?									
 Dog	0			Great Britain	Europe	EU789652.1	Collie	B1_m510	eDog_B1_m510_UK_HgB1a1b	16196 bp of mt genome	16195 bp of mt genome	B1a1b	n/a	Pang et al. 2009	?	?									
 Dog	0			Germany	Europe	AY656752.1	Standard Schnauzer	SS	eDog_SS_DE_HgB1a1h	16720 bp of mt genome	16720 bp of mt genome	B1a1h	n/a	Shahid et al. (unpublished data)	?	?									
 Dog	0			Iran	Middle East	EU789653.1	n/a	B1_m48	eDog_B1_m48_IR_HgB1a1j	16196 bp of mt genome	16195 bp of mt genome	B1a1j	n/a	Pang et al. 2009	?	?									
@@ -43,10 +43,10 @@ Dog	0			Belgium	Europe	KJ637113.1	Labrador Retriever	Be47_11	eDog_Be47_11_BE_HgB
 Dog	0			Scandinavia	Europe	EU789774.1	Jamthund	C3_D13	eDog_C3_D13_Scandinavia_HgC2a2a	16196 bp of mt genome	16196 bp of mt genome	C2a2a	n/a	Pang et al. 2009	?	?									
 Dog	0			Belgium	Europe	KJ637136.1	Cocker Spaniel	Be53_1	eDog_Be53_1_BE_HgC2a5	16530 bp of mt genome	16430 bp of mt genome	C2a5	n/a	Verscheure et al. 2014	?	?									
 Dog	0			Turkey	Middle East	EU789654.1	Kangal	D5_m98	eDog_D5_m98_TR_HgD1	16195 bp of mt genome	16194 bp of mt genome	D1	n/a	Pang et al. 2009	?	?									
-Dog	0			Sweden	Europe	DQ480502.1	Jämthund	n/a	eDog_Jamthund2_SE_HgD2a	16729 bp of mt genome	16709 bp of mt genome	D2a	n/a	Björnerfeldt et al. 2006	?	?									
-Dog	0			Scandinavia	Europe	EU789783.1	Jämthund	D8_D14	eDog_D8_D14_Scandinavia_HgD2a1	16195 bp of mt genome	16195 bp of mt genome	D2a1	n/a	Pang et al. 2009	?	?									
+Dog	0			Sweden	Europe	DQ480502.1	JÃ¤mthund	n/a	eDog_Jamthund2_SE_HgD2a	16729 bp of mt genome	16709 bp of mt genome	D2a	n/a	BjÃ¶rnerfeldt et al. 2006	?	?									
+Dog	0			Scandinavia	Europe	EU789783.1	JÃ¤mthund	D8_D14	eDog_D8_D14_Scandinavia_HgD2a1	16195 bp of mt genome	16195 bp of mt genome	D2a1	n/a	Pang et al. 2009	?	?									
 Dog	0			Sweden	Europe	DQ480499.1	Siberian Husky	n/a	eDog_Husky_SE_HgA1b 	16730 bp of mt genome	16711 bp of mt genome	A1b	n/a	Bjornerfeldt et al. 2006	?	?									
-Dog	0			Sweden	Europe	DQ480492.1	Jämthund	n/a	eDog_Jamthund1_SE_HgD	16729 bp of mt genome	16721 bp of mt genome	D	n/a	Bjornerfeldt et al. 2006	?	?									
+Dog	0			Sweden	Europe	DQ480492.1	JÃ¤mthund	n/a	eDog_Jamthund1_SE_HgD	16729 bp of mt genome	16721 bp of mt genome	D	n/a	Bjornerfeldt et al. 2006	?	?									
 Dog	0			Sweden	Europe	DQ480495.1	Cocker spaniel	n/a	eDog_CS_SE_HgA1a	16730 bp of mt genome	16720 bp of mt genome	A1a	n/a	Bjornerfeldt et al. 2006	?	?									
 Dog	0			Sweden	Europe	DQ480489.1	German Shepherd	n/a	 eDog_GS_SE_HgC 	16730 bp of mt genome	16724 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	?	?									
 Dog	0			Sweden	Europe	DQ480501.1	Elkhound	n/a	eDog_Elkhound_SE_HgC 	16730 bp of mt genome	16715 bp of mt genome	C	n/a	Bjornerfeldt et al. 2006	?	?									
@@ -156,11 +156,11 @@ Dog	4500	no	no	Alymas-Podunavlje, Croatia	Europe	n/a	n/a	ALPO01	aDog_ALPO01_HR_H
 Dog	4260-4180	no (direct dating, uncalibrated)	no	Sotin, Croatia	Europe	n/a	n/a	SOTN01	aDog_SOTN01_HR_HgD	16729 bp of mt  genome	16724  bp of mt  genome	D	n/a	Bergstrom et al. (unpublished data)	?	?									
 																									
 Neolithic																									
-Dog	7173-6990	yes	no	Herxheim, Germany	Europe	KX379529.1	n/a	HXH	aDog_HXH_DE_HgC	16725 bp of mt  genome	16725 bp of mt  genome	C	n/a	Botigué et al. 2017	?	?									
-Dog	4850-4582	yes	no	Cherry Tree Cave, Germany	Europe	KX379528.1	n/a	CTC	aDog_CTC_DE_HgC	16722 bp of mt  genome	16722 bp of mt  genome	C	n/a	Botigué et al. 2017	?	?									
+Dog	7173-6990	yes	no	Herxheim, Germany	Europe	KX379529.1	n/a	HXH	aDog_HXH_DE_HgC	16725 bp of mt  genome	16725 bp of mt  genome	C	n/a	BotiguÃ© et al. 2017	?	?									
+Dog	4850-4582	yes	no	Cherry Tree Cave, Germany	Europe	KX379528.1	n/a	CTC	aDog_CTC_DE_HgC	16722 bp of mt  genome	16722 bp of mt  genome	C	n/a	BotiguÃ© et al. 2017	?	?									
 Dog	4900-4700 	yes	no	Newgrange, Ireland	Europe	n/a	n/a	NGD	aDog_NGD_IE_HgC	16733  bp of mt  genome	16729 bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
 Dog	6030-5966	no (direct dating, uncalibrated)	no	Plo?nik, Serbia	Europe	n/a	n/a	AL2946 	aDog_AL2946_RS_HgD	16726 bp of mt  genome	16418 bp of mt genome	D	n/a	Bergstrom et al. (unpublished data)	?	?									
-Dog	5000	no	yes	Frälsegården, Gökhem, Sweden	Europe	n/a	n/a	C88	aDog_C88_SE_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
+Dog	5000	no	yes	FrÃ¤lsegÃ¥rden, GÃ¶khem, Sweden	Europe	n/a	n/a	C88	aDog_C88_SE_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
 Dog	4800	no	yes	Ajvide, Gotland, Sweden	Europe	n/a	n/a	C89	aDog_C89_SE_HgC	16729 bp of mt  genome	16724  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
 Dog	4800	no	yes	Ajvide, Gotland, Sweden	Europe	n/a	n/a	C90	aDog_C90_SE_HgC	16729 bp of mt  genome	16706  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
 Dog	5424-5356	no (direct dating, uncalibrated)	no	Marizulo Cave, Gipuzkoa, Spain	Iberiann Peninsula	n/a	n/a	OL4029	aDog_OL4029_ES_HgC	16697 bp of mt  genome	15703  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
@@ -168,14 +168,14 @@ Dog	5778-5708	no (direct dating, uncalibrated)	no	Skoteini cave, Tharrounia, Eub
 Dog	7000	no	yes	Tel Hreiz, Israel	Middle East	n/a	n/a	THRZ02	aDog_THRZ02_IL_HgA	16729 bp of mt  genome	15164  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
 																									
 Mesolithic																									
-Dog	9255-9015	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG7	aDog_CGG7_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8995-8715	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG5	aDog_CGG5_RU_HgA	16727  bp of mt genome	16717  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	9015-8775	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG1	aDog_CGG1_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	9545-9460	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG9	aDog_CGG9_RU_HgA	16727  bp of mt genome	16715  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	9005-8760 	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG4	aDog_CGG4_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8960-8910	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG2	aDog_CGG2_RU_HgA	16727  bp of mt genome	16674  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8635-8480	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG3	aDog_CGG3_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
-Dog	8995-8660	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG8	aDog_CGG8_RU_HgA	16727  bp of mt genome	16617  bp of mt genome	A	n/a	Ní Leathlobhair et al. 2018	?	?									
+Dog	9255-9015	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG7	aDog_CGG7_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	8995-8715	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG5	aDog_CGG5_RU_HgA	16727  bp of mt genome	16717  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	9015-8775	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG1	aDog_CGG1_RU_HgA	16727  bp of mt genome	16716  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	9545-9460	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG9	aDog_CGG9_RU_HgA	16727  bp of mt genome	16715  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	9005-8760 	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG4	aDog_CGG4_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	8960-8910	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG2	aDog_CGG2_RU_HgA	16727  bp of mt genome	16674  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	8635-8480	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG3	aDog_CGG3_RU_HgA	16727  bp of mt genome	16682  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
+Dog	8995-8660	yes	no	Zhokhov Island, Russia	Russia/Caucasus	dryad.s1k47j4	n/a	CGG8	aDog_CGG8_RU_HgA	16727  bp of mt genome	16617  bp of mt genome	A	n/a	NÃ­ Leathlobhair et al. 2018	?	?									
 Dog	6153-6091	no (direct dating, uncalibrated)	yes	Pad' Kalashnikova, Russia	Russia/Caucasus	n/a	n/a	C26	aDog_C26_RU_HgA	16729 bp of mt  genome	16724  bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
 Dog	6465-6395	no (direct dating, uncalibrated)	yes	Shamanka II, Russia	Russia/Caucasus	n/a	n/a	C27	aDog_C27_RU_HgC	16726 bp of mt  genome	16691  bp of mt  genome	C	n/a	Bergstrom et al. (unpublished data)	?	?									
 Dog	9625-9525	no (direct dating, uncalibrated)	no	Veretye, Lake Lacha, Russia	Russia/Caucasus	n/a	n/a	OL4061	aDog_OL4061_RU_HgA	16729 bp of mt  genome	16724 bp of mt  genome	A	n/a	Bergstrom et al. (unpublished data)	?	?									
@@ -216,21 +216,21 @@ Archaic Canid	14256-13984	yes	no	 Kesslerloch, Switzerland	Europe	MK937039.1	n/a
 Archaic Canid	35659-34142	yes	no	Taymyr, Russia/Siberia	Russia/Caucasus	MK937053.1	n/a	SK1	aWolf42_RU	16430 bp of mt  genome	16416 bp of mt  genome	n/a	n/a	 Loog et al. 2020	?										
 Archaic Canid	55000-50000	yes	no	Tirektyakh, Russia/Siberia	Russia/Caucasus	MK937015.1	n/a	CGG32	aWolf43_RU	16415 bp of mt  genome	16192 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
 Archaic Canid	17142-16585	yes	no	Ulakhan Sular, Russia/Siberia	Russia/Caucasus	MK937016.1	n/a	CGG33	aWolf44_RU	16410 bp of mt  genome	16341 bp of mt  genome	n/a	n/a	Loog et al. 2020	?										
-Archaic Canid	14372–13759	yes	no	Grotta Paglicci, Italy	Europe	MH376892.1	n/a	paglicci_14000	aWolf45_IT	16351 bp of mt  genome	15044 bp of mt  genome	n/a	n/a	Boschin et al 2020	?										
+Archaic Canid	14372Â–13759	yes	no	Grotta Paglicci, Italy	Europe	MH376892.1	n/a	paglicci_14000	aWolf45_IT	16351 bp of mt  genome	15044 bp of mt  genome	n/a	n/a	Boschin et al 2020	?										
 																									
 		References:																							
-		Arnason, U. et al. (2007) ‘Mitogenomic analyses of caniform relationships’, Molecular phylogenetics and evolution, 45(3), pp. 863–874. https://doi.org/10.1016/j.ympev.2007.06.019.																							
-		Björnerfeldt, S., Webster, M. T. and Vilà, C. (2006) ‘Relaxation of selective constraint on dog mitochondrial DNA following domestication’, Genome research, 16, pp. 990–994. https://doi.org/10.1101/gr.5117706.																							
-		Boschin, F. et al. (2020) ‘The first evidence for Late Pleistocene dogs in Italy’, Scientific reports, 10(1), pp. 13313. https://doi.org/10.1038/s41598-020-69940-w.																							
-		Botigué, L. R. et al. (2017) ‘Ancient European dog genomes reveal continuity since the Early Neolithic’, Nature Communications, 8, pp. 16082. https://doi.org/10.1038/ncomms16082.																							
-		Duleba, A. et al. (2015) ‘Complete mitochondrial genome database and standardized classification system for Canis lupus familiaris’, Forensic science international. Genetics, 19, pp. 123–129. https://doi.org/10.1016/j.fsigen.2015.06.014.																							
-		Kim, K. S. et al. (1998) ‘The complete nucleotide sequence of the domestic dog (Canis familiaris) mitochondrial genome’, Molecular phylogenetics and evolution, 10(2), pp. 210–220. https://doi.org/10.1006/mpev.1998.0513.																							
-		Koblmüller, S. et al. (2016) ‘Whole mitochondrial genomes illuminate ancient intercontinental dispersals of grey wolves (Canis lupus )’, Journal of biogeography, 43(9), pp. 1728–1738.  https://doi.org/10.1111/jbi.12765.																							
-		Loog, L. et al. (2020) ‘Ancient DNA suggests modern wolves trace their origin to a Late Pleistocene expansion from Beringia’, Molecular ecology, 29(9), pp. 1596–1610. https://doi.org/10.1111/mec.15329.																							
-		Ní Leathlobhair, M. et al. (2018) ‘The evolutionary history of dogs in the Americas’, Science, 361(6397), pp. 81–85. https://doi.org/10.1126/science.aao4776.																							
-		Pang, J.-F. et al. (2009) ‘mtDNA Data Indicate a Single Origin for Dogs South of Yangtze River, Less Than 16,300 Years Ago, from Numerous Wolves’, Molecular biology and evolution, 26(12), pp. 2849–2864. https://doi.org/10.1093/molbev/msp195.																							
-		Thalmann, O. et al. (2013) ‘Complete Mitochondrial Genomes of Ancient Canids Suggest a European Origin of Domestic Dogs’, Science, 342(6160), pp. 871–874. https://doi.org/10.1126/science.1243650.																							
-		Verscheure, S., Backeljau, T. and Desmyter, S. (2014) ‘Dog mitochondrial genome sequencing to enhance dog mtDNA discrimination power in forensic casework’, Forensic science international. Genetics, 12, pp. 60–68. https://doi.org/10.1016/j.fsigen.2014.05.001.																							
+		Arnason, U. et al. (2007) Â‘Mitogenomic analyses of caniform relationshipsÂ’, Molecular phylogenetics and evolution, 45(3), pp. 863Â–874. https://doi.org/10.1016/j.ympev.2007.06.019.																							
+		BjÃ¶rnerfeldt, S., Webster, M. T. and VilÃ , C. (2006) Â‘Relaxation of selective constraint on dog mitochondrial DNA following domesticationÂ’, Genome research, 16, pp. 990Â–994. https://doi.org/10.1101/gr.5117706.																							
+		Boschin, F. et al. (2020) Â‘The first evidence for Late Pleistocene dogs in ItalyÂ’, Scientific reports, 10(1), pp. 13313. https://doi.org/10.1038/s41598-020-69940-w.																							
+		BotiguÃ©, L. R. et al. (2017) Â‘Ancient European dog genomes reveal continuity since the Early NeolithicÂ’, Nature Communications, 8, pp. 16082. https://doi.org/10.1038/ncomms16082.																							
+		Duleba, A. et al. (2015) Â‘Complete mitochondrial genome database and standardized classification system for Canis lupus familiarisÂ’, Forensic science international. Genetics, 19, pp. 123Â–129. https://doi.org/10.1016/j.fsigen.2015.06.014.																							
+		Kim, K. S. et al. (1998) Â‘The complete nucleotide sequence of the domestic dog (Canis familiaris) mitochondrial genomeÂ’, Molecular phylogenetics and evolution, 10(2), pp. 210Â–220. https://doi.org/10.1006/mpev.1998.0513.																							
+		KoblmÃ¼ller, S. et al. (2016) Â‘Whole mitochondrial genomes illuminate ancient intercontinental dispersals of grey wolves (Canis lupus )Â’, Journal of biogeography, 43(9), pp. 1728Â–1738.  https://doi.org/10.1111/jbi.12765.																							
+		Loog, L. et al. (2020) Â‘Ancient DNA suggests modern wolves trace their origin to a Late Pleistocene expansion from BeringiaÂ’, Molecular ecology, 29(9), pp. 1596Â–1610. https://doi.org/10.1111/mec.15329.																							
+		NÃ­ Leathlobhair, M. et al. (2018) Â‘The evolutionary history of dogs in the AmericasÂ’, Science, 361(6397), pp. 81Â–85. https://doi.org/10.1126/science.aao4776.																							
+		Pang, J.-F. et al. (2009) Â‘mtDNA Data Indicate a Single Origin for Dogs South of Yangtze River, Less Than 16,300 Years Ago, from Numerous WolvesÂ’, Molecular biology and evolution, 26(12), pp. 2849Â–2864. https://doi.org/10.1093/molbev/msp195.																							
+		Thalmann, O. et al. (2013) Â‘Complete Mitochondrial Genomes of Ancient Canids Suggest a European Origin of Domestic DogsÂ’, Science, 342(6160), pp. 871Â–874. https://doi.org/10.1126/science.1243650.																							
+		Verscheure, S., Backeljau, T. and Desmyter, S. (2014) Â‘Dog mitochondrial genome sequencing to enhance dog mtDNA discrimination power in forensic caseworkÂ’, Forensic science international. Genetics, 12, pp. 60Â–68. https://doi.org/10.1016/j.fsigen.2014.05.001.																							
 																									
 		1 Fasta sequences shared by Raquel Godinho (BIOPOLIS-CIBIO/InBIO-EcoGenomics group)																							
 		2 Raw data generated within the framework of a collaboration with Greger Larson (Palaeogenomics & Bio-Archaeology Research Network, School of Archaeology, Oxford, UK)																							
