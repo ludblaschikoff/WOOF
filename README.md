@@ -7,7 +7,7 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 | Program | Version | Source | Application |
 |----------|----------|----------|----------|
 | FastQC | | | Read quality control |
-| Cutadapt | | | Read pre-processing |
+| Cutadapt | 1.18 | | Read pre-processing |
 | BWA | | https://github.com/lh3/bwa | Read alignment |
 | Picard | | | Post-alignment processing |
 | GATK | | https://software.broadinstitute.org/gatk | Post-alignment processing + SNP calling |
