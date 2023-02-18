@@ -14,9 +14,9 @@
 | PLINK | | | VCF file manipulation + PCA |
 | BCFtools | | http://www.htslib.org/ | VCF file manipulation |
 | VCFtools | | | VCF file manipulation |
-| MUSCLE | | | Mitochondrial phylogeny |
+| MUSCLE | | http://www.drive5.com/muscle/ | Mitochondrial phylogeny |
 | RAxML | | https://github.com/stamatak/standard-RAxML | Mitochondrial phylogeny |
-| R | | | Plotting + Statistical analysis |
+| R | | https://cran.r-project.org/bin/windows/ | Plotting + Statistical analysis |
 | Treemix | | | Population splits and admixture analysis |
 | Figtree | | http://tree.bio.ed.ac.uk/software/figtree/| |
 
