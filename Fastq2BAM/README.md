@@ -4,19 +4,20 @@
 |----------|----------|----------|----------|
 | FastQC | | | Read quality control |
 | Cutadapt | | | Read pre-processing |
-| BWA | | | Read alignment |
+| BWA | | https://github.com/lh3/bwa | Read alignment |
 | Picard | | | Post-alignment processing |
-| GATK | | | Post-alignment processing + SNP calling |
-| Qualimap | | | Alignment quality control |
-| SAMtools | | | |
+| GATK | | https://software.broadinstitute.org/gatk | Post-alignment processing + SNP calling |
+| Qualimap | | http://qualimap.bioinfo.cipf.es/ | Alignment quality control |
+| SAMtools | | http://www.htslib.org/ | BAM file manipulation |
 | ANGSD | | | Estimation of genotype likelihoods + Population analysis |
 | Admixture | | | Admixture analysis |
 | PLINK | | | VCF file manipulation + PCA |
-| BCFtools | | | VCF file manipulation |
+| BCFtools | | http://www.htslib.org/ | VCF file manipulation |
 | VCFtools | | | VCF file manipulation |
 | MUSCLE | | | Mitochondrial phylogeny |
-| RAxML | | | Mitochondrial phylogeny |
+| RAxML | | https://github.com/stamatak/standard-RAxML | Mitochondrial phylogeny |
 | R | | | Plotting + Statistical analysis |
 | Treemix | | | Population splits and admixture analysis |
+| Figtree | | http://tree.bio.ed.ac.uk/software/figtree/| |
 
 The genome reference is based on the Boxer assembly from XXX
