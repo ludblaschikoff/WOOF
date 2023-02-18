@@ -9,7 +9,7 @@
 | GATK | | https://software.broadinstitute.org/gatk | Post-alignment processing + SNP calling |
 | Qualimap | | http://qualimap.bioinfo.cipf.es/ | Alignment quality control |
 | SAMtools | | http://www.htslib.org/ | BAM file manipulation |
-| ANGSD | | | Estimation of genotype likelihoods + Population analysis |
+| ANGSD | | http://www.popgen.dk/angsd | Estimation of genotype likelihoods + Population analysis |
 | Admixture | | | Admixture analysis |
 | PLINK | | | VCF file manipulation + PCA |
 | BCFtools | | http://www.htslib.org/ | VCF file manipulation |
