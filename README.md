@@ -24,11 +24,11 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 | Treemix | | | Population splits and admixture analysis |
 | Figtree | | http://tree.bio.ed.ac.uk/software/figtree/| |
 
-The genome reference is based on the Boxer assembly from XXX
 
 ## Fastq2BAM - Read filter and mapping
 - Scripts to analyze modern HTS data from preprocessing to mapping.
 - (SCRIPTS_IN_PROGRESS) has SCRIPTS being developed to improve future analysis.
+- The genome reference is based on the Boxer assembly from XXX
 
 ## FILO - Mitochondrial Filogenies
 
