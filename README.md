@@ -28,7 +28,7 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 ## Fastq2BAM - Read filter and mapping
 - Scripts to analyze modern HTS data from preprocessing to mapping.
 - (SCRIPTS_IN_PROGRESS) has SCRIPTS being developed to improve future analysis.
-- The genome reference is based on the Boxer assembly from XXX
+- The genome reference is based on the Boxer assembly CanFam3.1.
 
 ## FILO - Mitochondrial Filogenies
 
