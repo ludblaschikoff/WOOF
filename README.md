@@ -6,7 +6,7 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 
 | Program | Version | Source | Application |
 |----------|----------|----------|----------|
-| FastQC | | | Read quality control |
+| FastQC | 0.11.9 | | Read quality control |
 | Cutadapt | 1.18 | | Read pre-processing |
 | BWA | 0.7.17-r1188 | https://github.com/lh3/bwa | Read alignment |
 | Picard |  2.18.14 | | Post-alignment processing |
@@ -18,11 +18,11 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 | PLINK | 1.90b6.17 | | VCF file manipulation + PCA |
 | BCFtools | 1.3.1 | http://www.htslib.org/ | VCF file manipulation |
 | VCFtools | 0.1.16 | | VCF file manipulation |
-| MUSCLE | | http://www.drive5.com/muscle/ | Mitochondrial phylogeny |
-| RAxML | | https://github.com/stamatak/standard-RAxML | Mitochondrial phylogeny |
-| R | | https://cran.r-project.org/bin/windows/ | Plotting + Statistical analysis |
-| Treemix | | | Population splits and admixture analysis |
-| Figtree | | http://tree.bio.ed.ac.uk/software/figtree/| |
+| MUSCLE | 3.8.31 | http://www.drive5.com/muscle/ | Mitochondrial phylogeny |
+| RAxML | 0.8.1 | https://github.com/stamatak/standard-RAxML | Mitochondrial phylogeny |
+| R | 4.2.2 | https://cran.r-project.org/bin/windows/ | Plotting + Statistical analysis |
+| Treemix | 1.13 | | Population splits and admixture analysis |
+| Figtree | 1.4.4 | http://tree.bio.ed.ac.uk/software/figtree/| |
 
 
 ## Fastq2BAM - Read filter and mapping
