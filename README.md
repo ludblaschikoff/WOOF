@@ -18,7 +18,7 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 | PLINK | 1.90b6.17 | https://www.cog-genomics.org/plink/1.9/ | Purcell et al. and
 Chang et al. | VCF file manipulation + PCA |
 | KING | | https://www.kingrelatedness.com/ | Manichaikul et al. |  Family relationship inference and pedigree error checking |
-| liftOver | | https://genome.ucsc.edu/util.html | Rhead et al. | Converts genome coordinates and annotation files between assemblies | CONFERIR identifier!
+| liftOver | | https://genome.ucsc.edu/util.html (CONFERIR!) | Rhead et al. | Converts genome coordinates and annotation files between assemblies | 
 | BCFtools | 1.3.1 | http://www.htslib.org/ | Li et al. | VCF file manipulation |
 | VCFtools | 0.1.16 | | | VCF file manipulation |
 | MUSCLE | 3.8.31 | http://www.drive5.com/muscle/ | | Mitochondrial phylogeny |
