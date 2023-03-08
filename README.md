@@ -5,7 +5,7 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 ## **List of tools/software needed**
 
 | Program | Version | Identifier | Source | Application |
-|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|
 | FastQC | 0.11.9 | | | Read quality control |
 | Cutadapt | 1.18 | | | Read pre-processing |
 | BWA | 0.7.17-r1188 | https://github.com/lh3/bwa | Li and Durbin | Read alignment |
