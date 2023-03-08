@@ -4,25 +4,29 @@ Scripts and pipelines used to analyze extant and ancient HTS data from the WOOF 
 
 ## **List of tools/software needed**
 
-| Program | Version | Source | Application |
+| Program | Version | Identifier | Source | Application |
 |----------|----------|----------|----------|
-| FastQC | 0.11.9 | | Read quality control |
-| Cutadapt | 1.18 | | Read pre-processing |
-| BWA | 0.7.17-r1188 | https://github.com/lh3/bwa | Read alignment |
-| Picard |  2.18.14 | | Post-alignment processing |
-| GATK | 4.1.7.0 / 4.0.11.0 | https://software.broadinstitute.org/gatk | Post-alignment processing + SNP calling |
-| Qualimap | 2.2.1 | http://qualimap.bioinfo.cipf.es/ | Alignment quality control |
-| SAMtools | 1.3.1 | http://www.htslib.org/ | BAM file manipulation |
-| ANGSD | | http://www.popgen.dk/angsd | Estimation of genotype likelihoods + Population analysis |
-| Admixture | 1.3.0 | | Admixture analysis |
-| PLINK | 1.90b6.17 | | VCF file manipulation + PCA |
-| BCFtools | 1.3.1 | http://www.htslib.org/ | VCF file manipulation |
-| VCFtools | 0.1.16 | | VCF file manipulation |
-| MUSCLE | 3.8.31 | http://www.drive5.com/muscle/ | Mitochondrial phylogeny |
-| RAxML | 0.8.1 | https://github.com/stamatak/standard-RAxML | Mitochondrial phylogeny |
-| R | 4.2.2 | https://cran.r-project.org/bin/windows/ | Plotting + Statistical analysis |
-| Treemix | 1.13 | | Population splits and admixture analysis |
-| Figtree | 1.4.4 | http://tree.bio.ed.ac.uk/software/figtree/| |
+| FastQC | 0.11.9 | | | Read quality control |
+| Cutadapt | 1.18 | | | Read pre-processing |
+| BWA | 0.7.17-r1188 | https://github.com/lh3/bwa | Li and Durbin | Read alignment |
+| Picard |  2.18.14 | https://broadinstitute.github.io/picard/ | Broad Institute | Post-alignment processing |
+| GATK | 4.1.7.0 / 4.0.11.0 | https://software.broadinstitute.org/gatk | Van der Auwera et al. | Post-alignment processing + SNP calling |
+| Qualimap | 2.2.1 | http://qualimap.bioinfo.cipf.es/ | | Alignment quality control |
+| SAMtools | 1.3.1 | http://www.htslib.org/ | Li et al. | BAM file manipulation |
+| ANGSD | | http://www.popgen.dk/angsd | | Estimation of genotype likelihoods + Population analysis |
+| Admixture | 1.3.0 | | | Admixture analysis |
+| PLINK | 1.90b6.17 | https://www.cog-genomics.org/plink/1.9/ | Purcell et al. and
+Chang et al. | VCF file manipulation + PCA |
+| KING | | https://www.kingrelatedness.com/ | Manichaikul et al. |  Family relationship inference and pedigree error checking |
+| liftOver | | https://genome.ucsc.edu/util.html | Rhead et al. | Converts genome coordinates and annotation files between assemblies | CONFERIR identifier!
+| BCFtools | 1.3.1 | http://www.htslib.org/ | Li et al. | VCF file manipulation |
+| VCFtools | 0.1.16 | | | VCF file manipulation |
+| MUSCLE | 3.8.31 | http://www.drive5.com/muscle/ | | Mitochondrial phylogeny |
+| RAxML | 0.8.1 | https://github.com/stamatak/standard-RAxML | | Mitochondrial phylogeny |
+| R | 4.2.2 | https://cran.r-project.org/bin/windows/ | R Core Team | Plotting + Statistical analysis |
+| Treemix | 1.13 | | | Population splits and admixture analysis |
+| Figtree | 1.4.4 | http://tree.bio.ed.ac.uk/software/figtree/ | | Visualization and edition of phylogenetic trees |
+| Python | | https://docs.python.org/3.7/reference/ | Python Software Foundation | |
 
 
 ## Fastq2BAM - Read filter and mapping
