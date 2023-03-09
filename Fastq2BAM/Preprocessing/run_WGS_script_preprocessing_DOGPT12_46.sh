@@ -76,3 +76,4 @@ else
 	fastqc -t "$threads" -o "$base_output"/preprocessing/fastqc_clean_reads "$base_output"/preprocessing/cutadapt/"$base_name"_trimmed.fq.gz
 fi
 
+echo "The end! :)"
