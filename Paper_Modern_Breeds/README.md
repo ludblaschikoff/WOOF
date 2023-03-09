@@ -31,8 +31,7 @@ Chang et al. | VCF file manipulation + PCA |
 
 ## Fastq2BAM - Read filter and mapping
 - Scripts to analyze modern HTS data from preprocessing to mapping.
-- (SCRIPTS_IN_PROGRESS) has SCRIPTS being developed to improve future analysis.
-- The genome reference is based on the Boxer assembly CanFam3.1.
+The genome reference is based on the Boxer assembly CanFam3.1.
 
 ## FILO - Mitochondrial Filogenies
 
