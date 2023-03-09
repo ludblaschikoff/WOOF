@@ -1,20 +1,17 @@
-Mitogenoma
 
 Minimum base quality	30
 Minimum read lenght	35
+
+
+Mitogenoma
 Minimum mapping quality	30
 Minimum coverage SNP	10.0
 Minimum quality SNP	20.0
 
-INDEL included (o certo era não estar incluído. Ou seja criar uma seq consensus com indels e outra sem indel. A sem indel que é submetida no genbank).
-
 Nuclear
-
-Minimum base quality	30
-Minimum read lenght	35
 Minimum mapping quality	30
 Minimum coverage SNP	7.0
 Minimum quality SNP	6.0
 Minimum genotype quality 20.0
 
-INDEL excluded
+
