@@ -1,7 +1,7 @@
 #!/bin/bash
 #Script to run reads quality control and filtering (pre-processing) in parallel
 
-#USAGE: path_to_script/run_WGS_script_preprocessing_parallel.sh path/to/fastq_files path/to/output trimqual minreadlength 
+#USAGE: bash path_to_script/run_WGS_script_preprocessing_parallel.sh path/to/fastq_files path/to/output trimqual minreadlength 
 
 display_usage() {
 echo "
