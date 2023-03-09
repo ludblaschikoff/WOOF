@@ -1,25 +1,22 @@
-Mitogenoma
 
 Minimum base quality	30
 Minimum read lenght	30
+
+Mitogenoma
+
 Minimum mapping quality	20
 Minimum coverage SNP	3.0
 Minimum quality SNP	20.0
 snpeff cão		canis_mt
 sneff lobo		canis_lupus_signatus_mt
 
-INDEL excluded
 
 Nuclear
 
-Minimum base quality	30
-Minimum read lenght	30
 Minimum mapping quality	20
 Minimum coverage SNP	3.0
 Minimum quality SNP	20.0
 snpeff cão		CanFam3.1.95			
 sneff lobo		CanFam3.1.95
-
-INDEL included
 
 
