@@ -1,7 +1,7 @@
 #!/bin/bash
 #Script to run reads quality control and filtering (pre-processing) in parallel
 
-#USAGE: path_to_script/run_WGS_script_preprocessing_DOGPT12_46.sh path/to/read1:path/to/read2 trimqual minreadlength threads path/to/output samplename
+#USAGE: path_to_script/run_WGS_script_preprocessing_parallel.sh path/to/fastq_files path/to/output trimqual minreadlength 
 
 display_usage() {
 echo "
