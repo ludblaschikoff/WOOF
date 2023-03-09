@@ -1,0 +1,14 @@
+Minimum base quality	30
+Minimum read lenght	35
+Minimum mapping quality	30
+
+Mitogenoma
+Minimum coverage SNP	10.0
+Minimum quality SNP	20.0
+
+Nuclear
+
+Minimum coverage SNP	6.0
+Minimum quality by depth SNP	5.0
+Minimum genotype quality 20.0
+
