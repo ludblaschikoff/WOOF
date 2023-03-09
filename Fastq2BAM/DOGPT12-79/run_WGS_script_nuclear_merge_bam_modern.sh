@@ -1,5 +1,7 @@
 #!/bin/bash
-#Script to run entire aDNA analysis at once
+#Script to merge bam files for samples with two sequencing runs.
+
+#USAGE: bash run_WGS_script_nuclear_merge_bam_modern.sh <input1.bam> <input2.bam> threads path/output samplename
 
 display_usage() {
 echo '
@@ -18,15 +20,15 @@ if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ] || [ -z "$5" ] ; the
         exit 1
 fi
 
+#############################
+######### VARIABLES #########
+#############################
 
-#variantes 
 bam1="$1"
 bam2="$2"
 threads="$3"
 base_output="$4"
 base_name="$5"
-
-
 
 
 #########################
@@ -35,10 +37,13 @@ base_name="$5"
 
 cd $base_output
 
-samtools merge "$base_name".bam "$bam1" "$bam2"
+samtools merge --threads "$threads" "$base_name".bam "$bam1" "$bam2"
 
 samtools sort "$base_name".bam > "$base_name"_sorted.bam
 samtools index "$base_name"_sorted.bam
 
+rm "$base_name".bam
+
 qualimap bamqc -nt "$threads" -c -bam "$base_name"_sorted.bam --java-mem-size=32G
 
+echo "Done!"
