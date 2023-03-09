@@ -1,7 +1,7 @@
 #!/bin/bash
 #Script to run reads quality control, filtering (pre-processing) and remove overrepresented polyG sequences.
 
-#USAGE: path_to_script/run_WGS_script_preprocessing_RemoveGs.sh path/to/read1:path/to/read2 trimqual minreadlength threads path/to/output samplename
+#USAGE: bash path_to_script/run_WGS_script_preprocessing_RemoveGs.sh path/to/read1:path/to/read2 trimqual minreadlength threads path/to/output samplename
 
 display_usage() {
 echo '1st argument must be the path to the sample fastq file read1 [and read2 if paired] in the following format: "path/to/read1:" OR "path/to/read1:path/to/read2"
@@ -75,4 +75,4 @@ else
 	fastqc -t "$threads" -o "$base_output"/preprocessing/fastqc_clean_reads "$base_output"/preprocessing/cutadapt/"$base_name"_trimmed.fq.gz
 fi
 
-echo "The end! :)"
+echo "Done!"
