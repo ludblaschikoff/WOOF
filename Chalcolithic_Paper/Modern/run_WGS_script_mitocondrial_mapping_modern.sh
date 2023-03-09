@@ -51,14 +51,14 @@ fi
 
 
 #samtools (filtering by flag and qual)
-samtools view -bh -f2 -q 30 "$base_name".sam -o "$base_name".bam # -h guardar com head cabeçário e -b para guardar ficheiro .bam
+samtools view -bh -f2 -q 30 "$base_name".sam -o "$base_name".bam 
 samtools sort "$base_name".bam > "$base_name"_sorted.bam
 samtools index "$base_name"_sorted.bam
 
 #picartools (add read groups)
-java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD AddOrReplaceReadGroups VALIDATION_STRINGENCY="LENIENT" ID="$biosample" SM="$biosample" PU="PU" LB="LB" PL="illumina" I="$base_name"_sorted.bam O="$base_name"_RG.bam #add uma coluna de identificacao no .bam com identificador para depois pordermos remover os duplicados
+java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD AddOrReplaceReadGroups VALIDATION_STRINGENCY="LENIENT" ID="$biosample" SM="$biosample" PU="PU" LB="LB" PL="illumina" I="$base_name"_sorted.bam O="$base_name"_RG.bam 
 
-#picartools (remove duplicates); reuse samtools index and samtools sort because we are not sure if the Picard desorganized the reads. 
+#picartools (remove duplicates)
 
 java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD MarkDuplicates VALIDATION_STRINGENCY="LENIENT" REMOVE_DUPLICATES="true" I="$base_name"_RG.bam O="$base_name"_no_dups.bam M="marked_dup_metrics.txt"
 
