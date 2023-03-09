@@ -5,8 +5,8 @@
 
 display_usage() {
 echo '1st argument must be the path to the sample fastq file read1 [and read2 if paired] in the following format: "path/to/read1:" OR "path/to/read1:path/to/read2"
-2nd argument is the mininum base quality for trimming
-3rd argument is the minimum read length after adapter removal
+2nd argument is the mininum base quality for trimming. example "30"
+3rd argument is the minimum read length after adapter removal. example "80"
 4th argument is the number of threads available to use. example "15"
 5th argument is the complete path to the directory were results must be saved
 6th argument is the sample name)'
