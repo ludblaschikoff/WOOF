@@ -117,7 +117,7 @@ samtools view -c "$base_output"/mapping/"$base_name".sam &> "$base_output"/mappi
 
 #Filter only mapped reads (samtools view)
 
-samtools view -bh -q "$minmapqual" "$base_output"/mapping/"$base_name".sam -o "$base_output"/mapping/"$base_name".bam  	# -h guardar com head cabeçário e -b para guardar ficheiro .bam
+samtools view -bh -q "$minmapqual" "$base_output"/mapping/"$base_name".sam -o "$base_output"/mapping/"$base_name".bam  	
 samtools sort "$base_name".bam > "$base_name"_sorted.bam
 samtools index "$base_name"_sorted.bam
 
@@ -131,7 +131,7 @@ rm $base_name'_dog_mappedandunmapped.bam' $base_name'_dog.sai' $base_name'_dog.s
 
 #picartools (add read groups)
 
-java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD AddOrReplaceReadGroups VALIDATION_STRINGENCY="LENIENT" ID="$biosample" SM="$biosample" PU="PU" LB="LB" PL="illumina" I="$base_name"_sorted.bam O="$base_name"_RG.bam #add uma coluna de identificacao no .bam com identificador para depois pordermos remover os duplicados
+java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD AddOrReplaceReadGroups VALIDATION_STRINGENCY="LENIENT" ID="$biosample" SM="$biosample" PU="PU" LB="LB" PL="illumina" I="$base_name"_sorted.bam O="$base_name"_RG.bam 
 samtools sort "$base_name"_RG.bam > "$base_name"_sorted_RG.bam  #reuse samtools index and samtools sort because we are not sure if the Picard desorganized the reads.
 samtools index "$base_name"_sorted_RG.bam
 
@@ -156,12 +156,12 @@ samtools index "$base_name"_filtered_sorted.bam
 
 source /opt/anaconda3/etc/profile.d/conda.sh
 
-conda activate GATK3 #comando para entrar no ambiente virtual
+conda activate GATK3 # command to enter into virtual environment
 
 gatk3 -T RealignerTargetCreator -R $reference -I "$base_name"_filtered_sorted.bam -o targets.intervals
 gatk3 -T IndelRealigner -R $reference -I "$base_name"_filtered_sorted.bam -targetIntervals targets.intervals -o "$base_name".final.bam --filter_bases_not_stored &> logFile_realignment.log
 
-conda deactivate #comando para sair do ambiente virtual
+conda deactivate # command to exit the virtual environment
 
 samtools sort "$base_name".final.bam -o "$base_name".final.sort.bam
 samtools index "$base_name".final.sort.bam
