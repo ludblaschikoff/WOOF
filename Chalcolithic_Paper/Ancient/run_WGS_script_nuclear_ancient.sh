@@ -221,7 +221,7 @@ gzip *.fq
 rm $base_name'_to_eliminate.bam' $base_name'_dog.sai'  $base_name'_dog.sam' $base_name'_human.sai' $base_name'_human.sam' $base_name'_pig.sai' $base_name'_pig.sam' $base_name'_chicken.sai' $base_name'_chicken.sam' $base_name'_cow.sai' $base_name'_cow.sam' $base_name'_sheep.sam' $base_name'_sheep.sai' $base_name'_goat.sam' $base_name'_goat.sai'	$base_name'.sam' $base_name'.sai'	$base_name'.bam' 
 
 #picartools (add read groups)
-java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD AddOrReplaceReadGroups ID="$biosample" SM="$biosample" PU="PU" LB="LB" PL="illumina" VALIDATION_STRINGENCY="LENIENT" I="$base_name"_sorted.bam O="$base_name"_RG.bam #add uma coluna de identificacao no .bam com identificador para depois pordermos remover os duplicados
+java -XX:ParallelGCThreads="$threads" -XX:ConcGCThreads="$threads" -jar $PICARD AddOrReplaceReadGroups ID="$biosample" SM="$biosample" PU="PU" LB="LB" PL="illumina" VALIDATION_STRINGENCY="LENIENT" I="$base_name"_sorted.bam O="$base_name"_RG.bam  
 
 #picartools (remove duplicates); reuse samtools index and samtools sort because we are not sure if the Picard desorganized the reads. 
 
