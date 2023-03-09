@@ -1,7 +1,7 @@
 #!/bin/bash
 #Script to run reads quality control and filtering (pre-processing)
 
-#USAGE: path_to_script/run_WGS_script_preprocessing_DOGPT12_46.sh path/to/read1:path/to/read2 trimqual minreadlength threads path/to/output samplename
+#USAGE: path_to_script/run_WGS_script_preprocessing_DOGPT49_81.sh path/to/read1:path/to/read2 trimqual minreadlength threads path/to/output samplename
 
 display_usage() {
 echo '1st argument must be the path to the sample fastq file read1 [and read2 if paired] in the following format: "path/to/read1:" OR "path/to/read1:path/to/read2"
