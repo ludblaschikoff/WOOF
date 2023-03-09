@@ -18,13 +18,13 @@ if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ] || [ -z "$5" ] || [ 
         exit 1
 fi
 
-#variantes: read1 será tudo o que tenho à esquerda do ":" ; read2 será tudo o que tenho à direita do ":". ex: $1=P9306_1026_R1...fq:P9306_1026_R2.  Aqui primeiro tratamos o argumento e só depois que o associamos à variável
+#variantes: read1 will be whatever I have to the left of the ":" ; read2 will be whatever I have to the right of the ":". ex: $1=P9306_1026_R1...fq:P9306_1026_R2.
 read1=$(echo $1 | cut -d ":" -f1)
 read2=$(echo $1 | cut -d ":" -f2)
 
 pair='true'
 
-if [ ${#read2} -eq 0 ]; then #[ ${#read2} -eq 0 ] significa que o número de elementos da variável read 2 é igual a zero.
+if [ ${#read2} -eq 0 ]; then #[ ${#read2} -eq 0 ] means that the number of elements of the variable read 2 is equal to zero.
 	pair='false'
 fi
 
@@ -42,7 +42,7 @@ base_name="$6"
 mkdir $base_output'/preprocessing'
 
 
-#CORRER ESTE COMANDO EM SEPARADO E AVALIAR A QUALIDADE DAS READS ANTES DE CORRER O SCRIPT
+#RUN THIS SEPARATE COMMAND AND EVALUATE THE QUALITY OF THE READS BEFORE RUNNING THE SCRIPT
 
 #fastqc -t "$threads" -o "$base_output/preprocessing/fastqc_raw_reads" "$read1"
 #fastqc -t "$threads" -o "$base_output/preprocessing/fastqc_raw_reads" "$read2"
