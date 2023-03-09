@@ -44,9 +44,6 @@ base_name="$6"
 ##### PREPROCESSING #####
 #########################
 
-mkdir $base_output'/preprocessing'
-
-
 #RUN THESE SEPARATE COMMANDS AND EVALUATE THE QUALITY OF THE READS BEFORE RUNNING THE SCRIPT
 
 #mkdir $base_output
