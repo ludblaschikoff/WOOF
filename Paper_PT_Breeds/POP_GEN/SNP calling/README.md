@@ -13,3 +13,11 @@ This script outputs several files containing basic VCF statistics, including all
 Plotting of several VCF statistics before and after filtering. Run stats.sh to generate the necessary input files. To render the RMD script run:
 R --> rmarkdown::render("VCF_stats.rmd", clean=TRUE, output_format="html_document")
 Command-line --> Rscript -e "rmarkdown::render('VCF_stats.rmd', clean=TRUE)"
+
+*QCquality_PLINK_WGS.sh*
+
+This script performs quality control for canine WGS data, including SNP/individual missingness filtering, MAF filtering, HWE and LD pruning filters and relatedness filtering.
+
+*QCquality_PLINK_SNParray*
+
+This script performs quality control for canine SNP array data, including SNP/individual missingness filtering, MAF filtering and relatedness filtering.
