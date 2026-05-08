@@ -36,13 +36,12 @@ maxRAM="$8"
 mkdir $base_output'/variant_calling'
 cd $base_output'/variant_calling'
 
-#CALCULAMOS A RAM DISPONIVEL PARA CADA RUN
 
 threads=30
 
-ind_ram=$(( $maxRAM/$threads ))		#run é o numero de amostras a serem processadas. é o mesmo que threads.
+ind_ram=$(( $maxRAM/$threads ))		
 
-ind_ram=$ind_ram'g'					##atualizo o valor da variavel $ind_ram para $ind_ram + g para o nome da variável levar a letra g.
+ind_ram=$ind_ram'g'					
 
 #### 1.VARIANT CALLING ####
 #LOOP PARA FAZER GVCFs
