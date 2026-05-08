@@ -37,11 +37,12 @@ Scripts to analyze modern HTS data from preprocessing to mapping.
 > [!NOTE]
 > The genome reference is based on the Boxer assembly <CanFam3.1>.
 
-- run_WGS_script_preprocessing_DOGPT12_46.sh - 
-- run_WGS_script_preprocessing_DOGPT49_81.sh - 
-- run_WGS_script_preprocessing_RemoveGs.sh - 
-- run_WGS_script_preprocessing_parallel.sh - 
+- run_WGS_script_preprocessing.sh - Script to run reads quality control and filtering (pre-processing)
+- run_WGS_script_preprocessing_RemoveGs.sh - Script to run reads quality control, filtering (pre-processing) and remove overrepresented polyG sequences
+- run_WGS_script_preprocessing_parallel.sh - Script to run reads quality control and filtering (pre-processing) in parallel
 
+### POP_GEN - Population genomics analyses based on variant calling
 
-### POP_GEN - Population analyses based on variant calling
+> [!IMPORTANT]
+> Parameters and paths will need to be adjusted per user's dataset and system.
 
