@@ -37,18 +37,18 @@ Scripts to analyze modern HTS data from preprocessing to mapping.
 > [!NOTE]
 > The genome reference is based on the Boxer assembly <CanFam3.1>.
 
-* * Preprocessing * *
+`Preprocessing`
 - run_WGS_script_preprocessing.sh - Script to run reads quality control and filtering (pre-processing)
 - run_WGS_script_preprocessing_RemoveGs.sh - Script to run reads quality control, filtering (pre-processing) and remove overrepresented polyG sequences
 - run_WGS_script_preprocessing_parallel.sh - Script to run reads quality control and filtering (pre-processing) in parallel
 
-* * Mapping * *
+`Mapping`
 - run_WGS_script_nuclear_mapping_modern.sh - Script to run mapping against reference genome
 - run_WGS_script_nuclear_merge_bam_modern.sh - Script to merge bam files for samples with two sequencing runs
 - run_WGS_script_nuclear_merge_severalbam_modern.sh - Script to merge several bam files for samples with multiple sequencing runs
 
 ### POP_GEN - Population genomics analyses based on variant calling
-- `SNP calling/` - Scripts to perform variant calling and VCF statistics.
+`SNP calling/` - Scripts to perform variant calling and VCF statistics.
 
 > [!IMPORTANT]
 > Parameters and paths will need to be adjusted per user's dataset and system.
