@@ -42,7 +42,7 @@ Scripts to analyze modern HTS data from preprocessing to mapping.
 
 ### POP_GEN - Population genomics analyses based on variant calling
 3. `SNP calling/` - Scripts to perform variant calling, VCF statistics and quality control filtering.
-4. Phylogenetic analysis - Scripts to infer phylogenic relationships using a NeighborNet network from WGS data and an IBS-based NJ tree from SNParray data.
+4. `Phylogenetic analysis/` - Scripts to infer phylogenic relationships using a NeighborNet network from WGS data and an IBS-based NJ tree from SNParray data.
 
 > [!IMPORTANT]
 > Parameters and paths will need to be adjusted per user's dataset and system.
